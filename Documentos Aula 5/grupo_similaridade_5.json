@@ -1,0 +1,4650 @@
+[
+    {
+        "id": 1,
+        "text": "Se a ilha cruel flutua, então a melancolia cristalina jamais congela galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 9,
+        "text": "Se o oceano imaculado foge, então o quebrado demônio jamais colore espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 13,
+        "text": "Se o trêmulo destino silencia, então o cristal cristalino jamais reflete suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 21,
+        "text": "Se o amor diurno desperta, então o petrificado vento jamais abraça serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 22,
+        "text": "Se o trêmulo tempo chora, então o vento surdo jamais desenha jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 25,
+        "text": "Se o instante luminoso estremece, então a estátua trêmula jamais destrói angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 28,
+        "text": "Se a aurora sombria canta, então o sereno deserto jamais aprisiona instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 31,
+        "text": "Se o farol fugaz agoniza, então a serpente melancólica jamais sepulta sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 37,
+        "text": "Se a etérea saudade agoniza, então o oceano sereno jamais congela cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 45,
+        "text": "Se a aurora vasta ascende, então o gélido lobo jamais assiste poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 46,
+        "text": "Se o sombrio demônio cintila, então o cego tempo jamais ilumina vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 48,
+        "text": "Se a aurora serena envelhece, então o caos etéreo jamais persegue instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 50,
+        "text": "Se o solitário mistério cintila, então o abismo sereno jamais fragmenta horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 54,
+        "text": "Se o instante fugaz estremece, então o fantasma vazio jamais sepulta precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 56,
+        "text": "Se a imaculada memória ascende, então o tempo frio jamais invade instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 57,
+        "text": "Se a fugaz cinza perece, então a etérea eternidade jamais reflete eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 68,
+        "text": "Se o farol vazio flutua, então o fugaz anjo jamais transcende sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 70,
+        "text": "Se o precipício trêmulo arde, então a máscara profana jamais consome paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 75,
+        "text": "Se a aurora inexorável murcha, então o suspiro fugaz jamais dissolve espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 109,
+        "text": "Se a profana alma murcha, então a memória eterna jamais liberta vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 114,
+        "text": "Se o êxtase silencioso sangra, então o fantasma perdido jamais acaricia sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 115,
+        "text": "Se a amarga harmonia cintila, então o mistério distante jamais sussurra espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 120,
+        "text": "Se a eterna tempestade desmorona, então o petrificado silêncio jamais reflete jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 135,
+        "text": "Se o nebuloso êxtase dança, então a invisível máscara jamais transborda relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 138,
+        "text": "Se a trêmula saudade dança, então o amargo fantasma jamais congela vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 141,
+        "text": "Se o perdido vazio persiste, então o instante perdido jamais ressuscita labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 142,
+        "text": "Se a galáxia cristalina brilha, então a melancolia maldita jamais transborda relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 145,
+        "text": "Se a eternidade imóvel dança, então a quimera cruel jamais acolhe jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 151,
+        "text": "Se o relógio surdo arde, então o paradoxo voraz jamais ressuscita instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 156,
+        "text": "Se o doce êxtase perece, então o imaculado vento jamais esconde punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 163,
+        "text": "Se a eterna angústia perece, então a máscara efêmera jamais profana cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 164,
+        "text": "Se o líquido tempo persiste, então a galáxia cruel jamais decifra vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 165,
+        "text": "Se o corvo petrificado foge, então a memória nebulosa jamais tece angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 173,
+        "text": "Se a aurora solitária perece, então o solitário silêncio jamais consome paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 183,
+        "text": "Se o eterno cristal arde, então o anjo voraz jamais tece lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 185,
+        "text": "Se a alma profunda retorna, então a alma esquecida jamais contempla precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 190,
+        "text": "Se a vela vasta brilha, então o deserto frio jamais liberta vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 193,
+        "text": "Se o jardim imóvel brilha, então a estátua líquida jamais destrói quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 197,
+        "text": "Se a utopia melancólica perece, então a cristalina memória jamais estilhaça vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 202,
+        "text": "Se a lua nebulosa dança, então o invisível relógio jamais congela catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 203,
+        "text": "Se a melancolia fugaz desmorona, então a esperança doce jamais sussurra melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 210,
+        "text": "Se a ilha maldita silencia, então a poesia noturna jamais rejeita cristal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 216,
+        "text": "Se a lágrima cega cai, então a quimera sagrada jamais consome alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 221,
+        "text": "Se a fugaz angústia dança, então a alma cristalina jamais transborda tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 223,
+        "text": "Se o deserto vazio sangra, então o tempo imaculado jamais ignora lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 224,
+        "text": "Se a quimera vasta desaparece, então a utopia noturna jamais tece quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 225,
+        "text": "Se o destino solitário dança, então o espelho líquido jamais consome esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 245,
+        "text": "Se a aurora profunda estremece, então a diurna utopia jamais destrói montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 247,
+        "text": "Se o profundo espectro ascende, então o luminoso destino jamais eterniza espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 250,
+        "text": "Se o instante sagrado ruge, então o demônio trêmulo jamais venera mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 255,
+        "text": "Se a doce poesia envelhece, então a angústia infinita jamais persegue labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 256,
+        "text": "Se a cicatriz serena foge, então o corvo ardente jamais profana horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 268,
+        "text": "Se o deserto cruel silencia, então a gélida catedral jamais eterniza vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 272,
+        "text": "Se a saudade luminosa adormece, então o anjo efêmero jamais sussurra neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 278,
+        "text": "Se a vela luminosa sangra, então o farol maldito jamais incendeia espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 285,
+        "text": "Se o relógio imóvel renasce, então o precipício fugaz jamais venera montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 292,
+        "text": "Se a fria montanha desaparece, então o farol perdido jamais reflete silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 294,
+        "text": "Se a petrificada lágrima canta, então o punhal breve jamais invade universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 302,
+        "text": "Se a ruína inexorável palpita, então a utopia perdida jamais corrói espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 303,
+        "text": "Se a profunda montanha ruge, então o relógio sereno jamais transcende tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 314,
+        "text": "Se o universo sublime ruge, então a memória eterna jamais revela paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 321,
+        "text": "Se a estátua profunda navega, então a neblina esquecida jamais ignora silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 367,
+        "text": "Se o relógio voraz foge, então a distante catedral jamais persegue catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 369,
+        "text": "Se o corvo melancólico cai, então a eterna ruína jamais estilhaça esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 373,
+        "text": "Se o diurno horizonte renasce, então a alma diurna jamais liberta vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 376,
+        "text": "Se a breve sombra estremece, então o vento esquecido jamais destrói espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 387,
+        "text": "Se o sombrio vazio renasce, então o destino imaculado jamais sepulta galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 391,
+        "text": "Se a melancólica alma persiste, então a utopia eterna jamais tece paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 396,
+        "text": "Se a cinza luminosa envelhece, então o amor perdido jamais invade estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 419,
+        "text": "Se a neblina eterna agoniza, então a cega esperança jamais acolhe destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 426,
+        "text": "Se a sombra solitária desperta, então a angústia vasta jamais sussurra suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 430,
+        "text": "Se a cicatriz vasta navega, então o sombrio punhal jamais transborda lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 438,
+        "text": "Se o farol doce envelhece, então o destino maldito jamais profana cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 442,
+        "text": "Se a nebulosa vela adormece, então a saudade efêmera jamais venera suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 443,
+        "text": "Se o mistério profundo silencia, então o precipício amargo jamais abraça oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 455,
+        "text": "Se o labirinto surdo canta, então a poesia efêmera jamais reflete saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 458,
+        "text": "Se a saudade melancólica desmorona, então o espelho profundo jamais revela serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 459,
+        "text": "Se o esquecido oceano dança, então o petrificado relógio jamais venera vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 471,
+        "text": "Se a máscara antiga chora, então o profundo caos jamais transcende melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 477,
+        "text": "Se a distante ilha envelhece, então o amor melancólico jamais molda oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 484,
+        "text": "Se a ruína sublime murcha, então o profano labirinto jamais transforma deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 486,
+        "text": "Se a tempestade antiga murcha, então a ilha perdida jamais tece silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 487,
+        "text": "Se a saudade vasta desaparece, então a ilha surda jamais consome eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 490,
+        "text": "Se a gélida neblina foge, então a antiga alma jamais esconde montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 492,
+        "text": "Se a tempestade infinita cai, então o diurno amor jamais liberta demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 494,
+        "text": "Se a sublime lágrima brilha, então o vazio petrificado jamais destrói vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 496,
+        "text": "Se o horizonte vasto sangra, então o anjo trêmulo jamais ressuscita vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 499,
+        "text": "Se o espelho sereno flutua, então o destino quebrado jamais dissolve poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 504,
+        "text": "Se a ilha profana suspira, então o anjo quebrado jamais contempla suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 505,
+        "text": "Se o êxtase nebuloso suspira, então o distante espelho jamais molda lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 507,
+        "text": "Se o precipício sereno navega, então o instante gélido jamais reflete universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 518,
+        "text": "Se o universo petrificado adormece, então a infinita saudade jamais revela caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 528,
+        "text": "Se a amarga montanha murcha, então o êxtase noturno jamais persegue harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 534,
+        "text": "Se o punhal sublime foge, então a ilha antiga jamais destrói vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 541,
+        "text": "Se o punhal sereno envelhece, então a cinza infinita jamais incendeia paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 549,
+        "text": "Se a cruel tempestade dança, então o demônio solitário jamais dissolve amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 554,
+        "text": "Se a angústia perdida navega, então o solitário instante jamais transforma relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 565,
+        "text": "Se o demônio surdo flutua, então a máscara breve jamais venera vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 570,
+        "text": "Se a ardente lua ruge, então o sublime cristal jamais molda lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 574,
+        "text": "Se o labirinto sublime palpita, então a sublime galáxia jamais dissolve montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 577,
+        "text": "Se o trêmulo relógio foge, então a lágrima gélida jamais transcende sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 581,
+        "text": "Se o corvo ardente suspira, então a estátua imóvel jamais tece galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 597,
+        "text": "Se o destino infinito sangra, então a cruel lua jamais transborda amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 599,
+        "text": "Se o espelho petrificado sangra, então a utopia melancólica jamais revela cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 601,
+        "text": "Se a perdida ruína perece, então a poesia fugaz jamais consome serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 613,
+        "text": "Se o espectro inexorável foge, então o mistério antigo jamais ignora lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 614,
+        "text": "Se o espelho cruel murcha, então o cego anjo jamais colore alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 617,
+        "text": "Se o antigo fantasma desperta, então a sombra luminosa jamais ilumina alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 624,
+        "text": "Se o antigo vento silencia, então o paradoxo breve jamais devora neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 626,
+        "text": "Se o trêmulo precipício chora, então a luminosa lágrima jamais destrói galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 628,
+        "text": "Se a serpente sublime sangra, então a tempestade distante jamais contempla horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 634,
+        "text": "Se o cruel corvo silencia, então o inexorável punhal jamais transborda universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 638,
+        "text": "Se o cristal efêmero palpita, então o oceano frio jamais decifra horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 656,
+        "text": "Se a estátua cega flutua, então a utopia sublime jamais contempla cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 657,
+        "text": "Se a máscara esquecida flutua, então o etéreo crepúsculo jamais estilhaça memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 662,
+        "text": "Se o luminoso anjo perece, então a sombra cristalina jamais consome tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 665,
+        "text": "Se a neblina vasta canta, então a alma serena jamais imita farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 666,
+        "text": "Se o fantasma solitário chora, então o breve espelho jamais imita precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 681,
+        "text": "Se o horizonte sombrio ecoas, então o crepúsculo trêmulo jamais esconde lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 682,
+        "text": "Se o suspiro profano brilha, então o vento efêmero jamais desenha esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 690,
+        "text": "Se a montanha líquida ecoas, então o punhal profundo jamais sepulta deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 693,
+        "text": "Se a aurora sublime perece, então o profano oceano jamais consome montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 695,
+        "text": "Se o deserto cristalino foge, então a sombria tempestade jamais invade ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 704,
+        "text": "Se a serpente melancólica perece, então a utopia gélida jamais acolhe amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 709,
+        "text": "Se o relógio esquecido perece, então o fugaz vazio jamais destrói horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 716,
+        "text": "Se a eternidade imóvel desmorona, então o vazio efêmero jamais decifra lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 717,
+        "text": "Se a harmonia vazia brilha, então a saudade voraz jamais ignora utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 723,
+        "text": "Se o profundo corvo retorna, então o espelho quebrado jamais eterniza montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 733,
+        "text": "Se o breve oceano dança, então a vasta lua jamais invade relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 741,
+        "text": "Se o cristal solitário cai, então o nebuloso relógio jamais devora vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 742,
+        "text": "Se o tempo imóvel cintila, então o suspiro petrificado jamais dissolve estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 743,
+        "text": "Se a sublime poesia desmorona, então o anjo sublime jamais incendeia relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 744,
+        "text": "Se a silenciosa serpente brilha, então a tempestade profana jamais invade espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 746,
+        "text": "Se a harmonia perdida cai, então o amor eterno jamais incendeia cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 747,
+        "text": "Se o horizonte vazio agoniza, então o destino invisível jamais molda cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 751,
+        "text": "Se o espelho vasto canta, então a lua maldita jamais ilumina harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 757,
+        "text": "Se a catedral antiga desmorona, então o êxtase cristalino jamais fragmenta memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 763,
+        "text": "Se a esperança diurna cintila, então a esperança profunda jamais eterniza serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 768,
+        "text": "Se o voraz corvo brilha, então a utopia infinita jamais persegue mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 778,
+        "text": "Se o instante vazio suspira, então a memória profunda jamais consome lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 797,
+        "text": "Se a galáxia antiga adormece, então o jardim sombrio jamais esconde punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 798,
+        "text": "Se o efêmero destino dança, então o amor sublime jamais acolhe caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 799,
+        "text": "Se o suspiro noturno persiste, então o trêmulo instante jamais incendeia jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 801,
+        "text": "Se o precipício sagrado cintila, então a perdida lágrima jamais invade eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 802,
+        "text": "Se a trêmula esperança suspira, então a utopia ardente jamais ignora alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 807,
+        "text": "Se o horizonte cego ascende, então a ilha eterna jamais destrói lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 813,
+        "text": "Se o luminoso labirinto canta, então o corvo eterno jamais revela suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 815,
+        "text": "Se o quebrado vento flutua, então a neblina imaculada jamais transforma punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 826,
+        "text": "Se a lágrima noturna agoniza, então o mistério sombrio jamais venera corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 844,
+        "text": "Se a imaculada vela flutua, então o cristal efêmero jamais transcende universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 845,
+        "text": "Se o cruel vento desperta, então o lobo eterno jamais imita sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 847,
+        "text": "Se o silêncio invisível suspira, então o oceano invisível jamais reflete precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 849,
+        "text": "Se o suspiro efêmero palpita, então a cinza líquida jamais ressuscita eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 861,
+        "text": "Se o oceano efêmero adormece, então a serpente serena jamais ignora utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 879,
+        "text": "Se o esquecido destino palpita, então o suspiro sagrado jamais rejeita angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 885,
+        "text": "Se a distante quimera desmorona, então o instante ardente jamais tece crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 889,
+        "text": "Se o mistério trêmulo canta, então a infinita saudade jamais revela cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 892,
+        "text": "Se o fantasma infinito brilha, então a cinza sublime jamais consome labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 897,
+        "text": "O destino eterno ilumina uma alma luminosa sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 904,
+        "text": "Se o destino imaculado desaparece, então o silêncio cego jamais contempla caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 912,
+        "text": "Se a neblina esquecida silencia, então o sereno mistério jamais devora abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 917,
+        "text": "Se o inexorável silêncio desperta, então a doce montanha jamais fragmenta abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 919,
+        "text": "Se a gélida harmonia navega, então o silêncio perdido jamais consome harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 928,
+        "text": "Se a profunda utopia arde, então o instante breve jamais decifra jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 939,
+        "text": "Se a ilha distante retorna, então o lobo antigo jamais fragmenta crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 945,
+        "text": "Se a maldita aurora desaparece, então a ruína efêmera jamais molda ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 947,
+        "text": "Se o paradoxo imaculado desperta, então o instante nebuloso jamais transborda amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 949,
+        "text": "Se a utopia vazia navega, então a silenciosa galáxia jamais ilumina caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 957,
+        "text": "Se a máscara silenciosa foge, então a petrificada lua jamais estilhaça angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 958,
+        "text": "Se o surdo espelho desmorona, então a ruína cristalina jamais destrói eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 971,
+        "text": "Se a melancolia sublime suspira, então o lobo noturno jamais esconde êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 976,
+        "text": "Se a memória fria murcha, então o caos silencioso jamais sussurra relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 979,
+        "text": "Se a efêmera ilha palpita, então a tempestade sombria jamais congela cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 980,
+        "text": "Se o demônio imaculado perece, então o eterno espectro jamais reflete quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 984,
+        "text": "Se a sagrada angústia perece, então a alma eterna jamais colore ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 998,
+        "text": "Se o gélido instante agoniza, então o suspiro trêmulo jamais eterniza anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 999,
+        "text": "Se o lobo eterno suspira, então a angústia profana jamais imita sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1000,
+        "text": "Se a surda cicatriz silencia, então o espectro invisível jamais transborda êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1008,
+        "text": "Se a neblina maldita brilha, então o caos sublime jamais imita lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1009,
+        "text": "Se a cristalina montanha palpita, então a sombra cega jamais congela relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1015,
+        "text": "Se a utopia antiga cai, então o vasto cristal jamais eterniza mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1016,
+        "text": "Se o precipício eterno agoniza, então a líquida cicatriz jamais rejeita oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1018,
+        "text": "Se o frio farol murcha, então a melancólica montanha jamais congela demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1019,
+        "text": "Se o espectro vazio retorna, então o voraz relógio jamais reflete horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1021,
+        "text": "Se o anjo vazio palpita, então a profana montanha jamais acaricia deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1022,
+        "text": "Se a galáxia serena sangra, então o deserto noturno jamais incendeia farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1029,
+        "text": "Se o lobo efêmero sangra, então a esperança luminosa jamais assiste tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1032,
+        "text": "Se a melancólica lua dorme, então a cruel utopia jamais desenha abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1035,
+        "text": "Se a alma solitária desaparece, então a vazia aurora jamais transcende suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1036,
+        "text": "Se a catedral amarga renasce, então o antigo horizonte jamais transcende caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1038,
+        "text": "Se a lua diurna estremece, então a estátua solitária jamais desenha mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1040,
+        "text": "Se a aurora sagrada ascende, então a sagrada angústia jamais imita máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1041,
+        "text": "Se o fantasma luminoso chora, então a distante angústia jamais acaricia ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1045,
+        "text": "Se o corvo infinito retorna, então a esperança silenciosa jamais sussurra labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1047,
+        "text": "Se a diurna quimera cai, então a ardente galáxia jamais desenha destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1050,
+        "text": "Se a perdida lua desperta, então o jardim vasto jamais acaricia lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1062,
+        "text": "Se o silencioso fantasma persiste, então a lágrima amarga jamais incendeia deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1073,
+        "text": "Se a estátua trêmula ruge, então a serpente surda jamais devora galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1079,
+        "text": "Se o amor frio navega, então a lua luminosa jamais assiste horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1081,
+        "text": "Se a catedral fugaz sangra, então o etéreo instante jamais contempla precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1087,
+        "text": "Se a catedral imóvel estremece, então a cega cicatriz jamais transborda saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1089,
+        "text": "Se a esperança inexorável cai, então a diurna memória jamais desenha demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1092,
+        "text": "Se a melancolia líquida ruge, então a máscara surda jamais estilhaça farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1093,
+        "text": "Se a serpente perdida sangra, então o cruel fantasma jamais invade saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1094,
+        "text": "Se a melancólica estátua foge, então o deserto profano jamais aprisiona galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1098,
+        "text": "Se o caos perdido desmorona, então o punhal imóvel jamais colore mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1100,
+        "text": "Se a lua sagrada cai, então a eternidade perdida jamais transforma harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1101,
+        "text": "Se o antigo crepúsculo desaparece, então a serena utopia jamais ignora angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1104,
+        "text": "Se o voraz fantasma flutua, então o cruel crepúsculo jamais aprisiona máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1111,
+        "text": "Se a vazia tempestade silencia, então a montanha serena jamais desenha caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1113,
+        "text": "Se o oceano sagrado desperta, então a vela sagrada jamais profana mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1114,
+        "text": "Se a quimera sublime sangra, então a catedral cristalina jamais ilumina destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1116,
+        "text": "Se a sublime máscara silencia, então a quimera efêmera jamais imita mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1117,
+        "text": "Se o invisível punhal murcha, então o frio deserto jamais acolhe utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1118,
+        "text": "Se o êxtase cego dorme, então o relógio profundo jamais revela horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1123,
+        "text": "Se o antigo punhal adormece, então a cega saudade jamais imita cristal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1124,
+        "text": "Se o espectro imóvel ascende, então o lobo profundo jamais fragmenta utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1129,
+        "text": "Se a angústia petrificada renasce, então o vazio vento jamais tece crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1133,
+        "text": "Se o cristal imaculado desperta, então o lobo etéreo jamais desenha tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1136,
+        "text": "Se a sombra esquecida foge, então o precipício trêmulo jamais assiste deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1141,
+        "text": "Se o corvo voraz cintila, então o frio cristal jamais assiste harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1149,
+        "text": "Se o vasto espelho ascende, então a vela profana jamais ressuscita estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1163,
+        "text": "Se a neblina profana renasce, então o efêmero abismo jamais colore vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1173,
+        "text": "Se o punhal amargo dorme, então a eternidade breve jamais venera farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1175,
+        "text": "Se o anjo noturno adormece, então o abismo cristalino jamais abraça fantasma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1178,
+        "text": "Se a neblina nebulosa adormece, então a profana lágrima jamais devora sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1192,
+        "text": "Se a etérea galáxia adormece, então a neblina líquida jamais colore relógio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1195,
+        "text": "Se a esquecida harmonia brilha, então a serpente sombria jamais revela melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1196,
+        "text": "Se a memória petrificada adormece, então o abismo luminoso jamais rejeita espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1203,
+        "text": "Se a melancolia profana ruge, então a trêmula utopia jamais congela sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1206,
+        "text": "Se a vazia alma estremece, então a aurora serena jamais consome farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1213,
+        "text": "Se o vazio breve suspira, então o sagrado horizonte jamais eterniza utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1215,
+        "text": "Se o deserto distante brilha, então o silêncio cruel jamais congela memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1218,
+        "text": "Se o labirinto sagrado adormece, então a etérea serpente jamais congela espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1220,
+        "text": "Se o jardim fugaz dorme, então o horizonte fugaz jamais eterniza lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1221,
+        "text": "Se o abismo gélido estremece, então o abismo invisível jamais acaricia angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1238,
+        "text": "Se a quimera antiga dança, então o vento gélido jamais transcende ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1239,
+        "text": "Se a eterna eternidade cai, então o horizonte ardente jamais assiste êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1247,
+        "text": "Se o vento voraz sangra, então o ardente anjo jamais reflete punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1257,
+        "text": "Se o petrificado demônio sangra, então o vasto labirinto jamais colore harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1260,
+        "text": "Se a utopia vasta ecoas, então a vela eterna jamais colore instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1269,
+        "text": "Se o antigo instante palpita, então a ilha doce jamais destrói catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1280,
+        "text": "Se o caos vasto agoniza, então o oceano eterno jamais liberta mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1282,
+        "text": "Se a montanha etérea cai, então a nebulosa cicatriz jamais invade lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1286,
+        "text": "Se a perdida melancolia foge, então o anjo perdido jamais abraça vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1294,
+        "text": "Se o profundo lobo envelhece, então a memória doce jamais estilhaça serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1295,
+        "text": "Se o perdido caos envelhece, então a doce catedral jamais molda lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1296,
+        "text": "Se o corvo petrificado canta, então o corvo invisível jamais corrói alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1297,
+        "text": "Se a galáxia luminosa desperta, então a máscara esquecida jamais decifra anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1298,
+        "text": "Se o inexorável paradoxo cai, então o breve cristal jamais eterniza montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1305,
+        "text": "Se a vela profana renasce, então a maldita alma jamais persegue destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1308,
+        "text": "Se o precipício profundo murcha, então a cinza inexorável jamais corrói horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1320,
+        "text": "Se a catedral antiga flutua, então o paradoxo diurno jamais decifra fantasma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1323,
+        "text": "Se a esperança petrificada ecoas, então o cristalino jardim jamais eterniza neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1324,
+        "text": "Se a eterna montanha flutua, então o vazio ardente jamais decifra ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1328,
+        "text": "Se a sombra petrificada chora, então a saudade cega jamais transborda tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1329,
+        "text": "Se o espectro frio ecoas, então a eternidade luminosa jamais revela eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1340,
+        "text": "Se a cicatriz invisível cintila, então a invisível catedral jamais incendeia utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1349,
+        "text": "Se o sublime destino murcha, então a vela perdida jamais fragmenta vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1353,
+        "text": "Se o vazio amargo cintila, então a sombria melancolia jamais rejeita labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1355,
+        "text": "Se o farol antigo adormece, então a cristalina alma jamais assiste utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1358,
+        "text": "Se o perdido universo suspira, então a silenciosa alma jamais ignora labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1369,
+        "text": "Se a poesia melancólica ascende, então o fantasma luminoso jamais congela silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1376,
+        "text": "Se o espelho sereno desperta, então a harmonia imóvel jamais tece jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1379,
+        "text": "Se o demônio esquecido palpita, então a sombria lágrima jamais transforma espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1380,
+        "text": "Se o espectro sombrio retorna, então o farol nebuloso jamais rejeita esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1382,
+        "text": "Se o lobo gélido estremece, então a estátua breve jamais destrói lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1388,
+        "text": "Se a poesia solitária dorme, então a antiga alma jamais incendeia oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1391,
+        "text": "Se o amor sublime desmorona, então o êxtase voraz jamais esconde jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1397,
+        "text": "Se a ruína distante flutua, então o efêmero precipício jamais congela horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1401,
+        "text": "Se o farol vasto foge, então a poesia profunda jamais transforma corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1412,
+        "text": "Se o amor profano persiste, então o fantasma silencioso jamais ressuscita labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1415,
+        "text": "Se o profundo cristal desperta, então a catedral nebulosa jamais tece mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1424,
+        "text": "Se a aurora distante desaparece, então a diurna vela jamais reflete serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1428,
+        "text": "Se a maldita utopia envelhece, então o paradoxo gélido jamais incendeia oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1435,
+        "text": "Se a petrificada sombra silencia, então o instante cego jamais decifra crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1436,
+        "text": "O espectro cego incendeia uma amor eterno sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1439,
+        "text": "Se o cruel punhal renasce, então o abismo noturno jamais molda mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1442,
+        "text": "Se o oceano quebrado cai, então a estátua surda jamais acolhe montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1444,
+        "text": "Se o espectro diurno retorna, então a maldita angústia jamais esconde tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1454,
+        "text": "Se o abismo diurno cintila, então a petrificada poesia jamais imita galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1461,
+        "text": "Se a eterna ruína desaparece, então o surdo vento jamais venera vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1462,
+        "text": "Se a líquida ilha flutua, então a eternidade surda jamais acolhe instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1466,
+        "text": "Se o espelho solitário perece, então o universo esquecido jamais assiste espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1470,
+        "text": "Se a melancolia cruel desaparece, então a quebrada ilha jamais profana vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1472,
+        "text": "Se o relógio solitário adormece, então o ardente demônio jamais rejeita memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1476,
+        "text": "Se o solitário universo silencia, então o solitário precipício jamais venera amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1477,
+        "text": "Se o cristalino cristal suspira, então a sombra esquecida jamais venera poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1478,
+        "text": "Se o universo cruel dança, então o paradoxo esquecido jamais ignora silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1480,
+        "text": "Se a surda vela brilha, então a lágrima distante jamais estilhaça amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1489,
+        "text": "Se o distante corvo suspira, então o vazio oceano jamais invade quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1490,
+        "text": "Se o corvo vazio flutua, então o universo amargo jamais molda memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1493,
+        "text": "O espectro doce rejeita uma silêncio petrificado nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1495,
+        "text": "Se o tempo profundo persiste, então a memória melancólica jamais desenha harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1497,
+        "text": "Se a ruína cristalina navega, então o horizonte fugaz jamais reflete oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1513,
+        "text": "Se o imóvel deserto foge, então a estátua cristalina jamais consome precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1516,
+        "text": "Se a imóvel catedral ruge, então o tempo breve jamais revela ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1518,
+        "text": "Se a fugaz saudade murcha, então o abismo esquecido jamais colore demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1520,
+        "text": "Se o punhal infinito palpita, então o imaculado crepúsculo jamais aprisiona abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1526,
+        "text": "Se a utopia imóvel foge, então a cicatriz gélida jamais tece fantasma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1538,
+        "text": "Se a serpente profunda ecoas, então o fantasma antigo jamais liberta aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1540,
+        "text": "Se a diurna estátua brilha, então a estátua maldita jamais abraça abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1549,
+        "text": "Se o doce anjo persiste, então o universo inexorável jamais corrói serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1563,
+        "text": "Se o crepúsculo gélido silencia, então o universo amargo jamais devora demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1564,
+        "text": "Se o surdo corvo cintila, então o labirinto sereno jamais acaricia galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1568,
+        "text": "Se a memória solitária chora, então a antiga máscara jamais colore poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1570,
+        "text": "Se a memória maldita flutua, então a perdida cinza jamais transborda memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1574,
+        "text": "Se o espelho fugaz persiste, então o profundo mistério jamais ressuscita instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1589,
+        "text": "Se o horizonte vasto navega, então a ardente melancolia jamais desenha estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1591,
+        "text": "O silêncio profano foge, visto que o punhal antigo persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1592,
+        "text": "Se a vasta cinza adormece, então a imaculada lágrima jamais liberta máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1594,
+        "text": "Se o nebuloso demônio sangra, então o mistério profano jamais fragmenta memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1598,
+        "text": "Se a estátua gélida ruge, então o êxtase cristalino jamais congela universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1604,
+        "text": "Se a vasta saudade foge, então a esperança quebrada jamais sussurra crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1608,
+        "text": "Se a aurora etérea ecoas, então a tempestade cruel jamais molda cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1610,
+        "text": "O cristal, que congela lágrimas, agora persiste imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1612,
+        "text": "Se o oceano inexorável suspira, então o relógio cego jamais decifra aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1621,
+        "text": "Se o espectro perdido dança, então a lua antiga jamais consome cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1634,
+        "text": "Se a harmonia líquida ascende, então a serena cinza jamais ressuscita mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1638,
+        "text": "Se o destino gélido palpita, então o lobo ardente jamais decifra galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1657,
+        "text": "Se a fria alma desmorona, então a neblina nebulosa jamais persegue suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1660,
+        "text": "Se o silêncio vazio persiste, então o inexorável vazio jamais transcende montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1671,
+        "text": "Se o caos etéreo chora, então o fantasma luminoso jamais consome poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1675,
+        "text": "Se o vento sereno ruge, então a memória nebulosa jamais rejeita lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1676,
+        "text": "Se o quebrado horizonte ascende, então a ilha melancólica jamais consome precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1724,
+        "text": "Se a eternidade serena ecoas, então a angústia sublime jamais invade demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1725,
+        "text": "Se a breve harmonia chora, então o suspiro voraz jamais sussurra amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1726,
+        "text": "Se a inexorável sombra murcha, então o suspiro quebrado jamais revela jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1729,
+        "text": "Se o suspiro amargo desmorona, então o punhal eterno jamais colore lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1732,
+        "text": "Se o cristalino crepúsculo murcha, então o melancólico espectro jamais fragmenta suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1733,
+        "text": "Se a aurora nebulosa ruge, então a estátua fria jamais estilhaça universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1739,
+        "text": "Se o crepúsculo etéreo navega, então a ilha inexorável jamais estilhaça caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1742,
+        "text": "Se a memória imaculada foge, então o antigo caos jamais fragmenta estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1754,
+        "text": "Se a memória efêmera brilha, então o universo cristalino jamais esconde espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1758,
+        "text": "Se a esquecida harmonia canta, então o mistério eterno jamais ignora sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1769,
+        "text": "Se a memória cruel persiste, então a melancolia noturna jamais sepulta vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1780,
+        "text": "Se a serpente silenciosa agoniza, então a líquida aurora jamais destrói abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1783,
+        "text": "Se a profunda quimera ascende, então o efêmero demônio jamais persegue montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1786,
+        "text": "Se o perdido relógio dança, então a saudade solitária jamais aprisiona vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1788,
+        "text": "Se a luminosa saudade murcha, então a eternidade distante jamais ressuscita estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1797,
+        "text": "Se a invisível saudade estremece, então o oceano esquecido jamais ignora labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1802,
+        "text": "Se o etéreo fantasma brilha, então o instante infinito jamais esconde corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1803,
+        "text": "Se a harmonia cruel ruge, então o jardim breve jamais reflete lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1808,
+        "text": "Se a galáxia antiga envelhece, então o jardim inexorável jamais dissolve crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1810,
+        "text": "Se o caos petrificado agoniza, então a melancolia nebulosa jamais decifra serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1812,
+        "text": "Se o surdo farol desmorona, então a melancolia vasta jamais reflete galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1820,
+        "text": "Se a doce memória brilha, então o jardim maldito jamais esconde mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1825,
+        "text": "Se o caos etéreo desperta, então a sombra gélida jamais eterniza aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1828,
+        "text": "Se o espelho diurno desmorona, então o demônio perdido jamais desenha anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1830,
+        "text": "Se a petrificada aurora retorna, então a ilha solitária jamais persegue crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1836,
+        "text": "Se o destino silencioso sangra, então a noturna melancolia jamais transforma mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1838,
+        "text": "Se o mistério petrificado persiste, então o ardente vazio jamais esconde utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1840,
+        "text": "Se o etéreo universo desperta, então o farol líquido jamais corrói montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1846,
+        "text": "Se o espelho líquido flutua, então o deserto noturno jamais transforma cristal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1857,
+        "text": "Se o mistério diurno cai, então a solitária saudade jamais contempla labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1858,
+        "text": "Se o voraz mistério silencia, então o quebrado crepúsculo jamais decifra angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1862,
+        "text": "Se a catedral petrificada foge, então o amor breve jamais transcende aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1863,
+        "text": "Se o deserto cruel adormece, então o silêncio gélido jamais incendeia caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1869,
+        "text": "Se o horizonte ardente desperta, então o inexorável precipício jamais devora oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1871,
+        "text": "Se o voraz farol silencia, então o distante horizonte jamais fragmenta melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1876,
+        "text": "Se a máscara infinita dorme, então o imóvel fantasma jamais transcende saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1878,
+        "text": "Se a serena quimera agoniza, então o paradoxo profano jamais revela galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1880,
+        "text": "Se o destino nebuloso perece, então a vela luminosa jamais corrói demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1881,
+        "text": "Se a utopia cega ruge, então a tempestade sombria jamais corrói aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1883,
+        "text": "Se a máscara sublime perece, então a fria eternidade jamais reflete ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1888,
+        "text": "Se o instante cristalino desmorona, então a melancólica neblina jamais molda anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1889,
+        "text": "Se o destino noturno dorme, então o inexorável relógio jamais fragmenta poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1891,
+        "text": "Se o gélido vazio desaparece, então a esperança trêmula jamais fragmenta caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1893,
+        "text": "Se o jardim sereno envelhece, então o ardente horizonte jamais persegue horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1894,
+        "text": "Se a galáxia eterna foge, então o amargo anjo jamais tece demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1895,
+        "text": "Se a tempestade maldita dança, então a luminosa cicatriz jamais decifra vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1901,
+        "text": "Se a ilha melancólica perece, então o silêncio infinito jamais venera estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1910,
+        "text": "Se a galáxia fria adormece, então o infinito corvo jamais reflete vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1911,
+        "text": "Se o melancólico caos ecoas, então o espelho voraz jamais persegue êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1913,
+        "text": "Se a ilha trêmula murcha, então o sombrio demônio jamais sussurra deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1920,
+        "text": "Se a vela gélida perece, então a cinza trêmula jamais sepulta silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1925,
+        "text": "Se a maldita sombra suspira, então a alma cruel jamais ignora eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1928,
+        "text": "Se o trêmulo jardim dorme, então o diurno labirinto jamais liberta saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1941,
+        "text": "Se a catedral invisível ecoas, então o invisível espelho jamais eterniza oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1950,
+        "text": "Se o suspiro invisível suspira, então a utopia distante jamais esconde êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1957,
+        "text": "Se o cristalino amor adormece, então a ilha serena jamais venera angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1962,
+        "text": "Se a voraz máscara ecoas, então a fria ruína jamais incendeia esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1969,
+        "text": "Se a surda aurora navega, então o corvo breve jamais ignora quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1977,
+        "text": "Se a melancolia cega sangra, então o vasto êxtase jamais esconde punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1988,
+        "text": "Se o amargo punhal flutua, então o perdido crepúsculo jamais fragmenta saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1991,
+        "text": "Se o trêmulo espelho retorna, então a saudade inexorável jamais esconde galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1995,
+        "text": "Se a ardente memória chora, então o punhal sereno jamais colore êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1996,
+        "text": "Se a nebulosa máscara ecoas, então o melancólico vento jamais profana demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1998,
+        "text": "Se o relógio imóvel chora, então a poesia noturna jamais fragmenta vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2002,
+        "text": "Se a máscara surda agoniza, então a vasta galáxia jamais estilhaça labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2012,
+        "text": "Se o maldito cristal silencia, então o fugaz vazio jamais revela ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2020,
+        "text": "Se a etérea quimera arde, então a sombra cristalina jamais acolhe catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2021,
+        "text": "Se a poesia profunda ruge, então o cristal nebuloso jamais sepulta labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2038,
+        "text": "Se o precipício profundo renasce, então a líquida cicatriz jamais venera tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2040,
+        "text": "Se o anjo sereno navega, então a solitária aurora jamais decifra utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2047,
+        "text": "Se o jardim profano perece, então o farol sereno jamais venera tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2054,
+        "text": "Se a cinza sagrada estremece, então a aurora vasta jamais devora harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2056,
+        "text": "Se o corvo sereno flutua, então a ilha sombria jamais assiste vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2062,
+        "text": "Se a doce sombra chora, então a memória noturna jamais eterniza anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2064,
+        "text": "Se a angústia profana agoniza, então o universo cruel jamais aprisiona amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2070,
+        "text": "Se a melancolia doce murcha, então o farol nebuloso jamais molda ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2071,
+        "text": "Se a galáxia amarga silencia, então o silêncio silencioso jamais ressuscita quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2076,
+        "text": "Se o fantasma sublime cai, então a distante cinza jamais devora ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2088,
+        "text": "Se o farol profano agoniza, então o cristalino fantasma jamais dissolve serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2100,
+        "text": "Se o fugaz destino ruge, então o surdo abismo jamais colore crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2105,
+        "text": "Se o cego anjo ruge, então o silêncio imóvel jamais eterniza ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2111,
+        "text": "Se a tempestade solitária foge, então a catedral sagrada jamais venera labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2112,
+        "text": "Se a distante esperança flutua, então a máscara profana jamais abraça crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2123,
+        "text": "Se a líquida neblina ecoas, então a surda melancolia jamais dissolve máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2126,
+        "text": "Se a neblina eterna silencia, então o amargo demônio jamais sussurra quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2135,
+        "text": "Se a melancolia quebrada brilha, então o destino sombrio jamais abraça espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2139,
+        "text": "Se a galáxia cega desaparece, então a alma inexorável jamais transborda serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2145,
+        "text": "Se o farol invisível agoniza, então o vento silencioso jamais congela poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2149,
+        "text": "Se o espelho ardente murcha, então a lua perdida jamais acolhe estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2158,
+        "text": "Se o silêncio trêmulo dança, então a lua profana jamais decifra espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2161,
+        "text": "Se o labirinto frio navega, então a vasta tempestade jamais reflete lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2169,
+        "text": "Se a saudade profunda desaparece, então o caos líquido jamais eterniza eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2170,
+        "text": "Se a cristalina serpente ruge, então o silêncio vazio jamais profana amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2171,
+        "text": "Se a montanha solitária perece, então o universo cruel jamais congela sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2183,
+        "text": "Se o imóvel instante estremece, então a lágrima etérea jamais revela quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2188,
+        "text": "Se o invisível cristal adormece, então o farol luminoso jamais destrói eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2191,
+        "text": "Se o solitário demônio arde, então o vazio instante jamais assiste abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2198,
+        "text": "Se o vasto vento canta, então o jardim invisível jamais assiste silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2200,
+        "text": "Se a saudade amarga dorme, então a poesia líquida jamais decifra corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2203,
+        "text": "Se a quebrada quimera flutua, então o infinito suspiro jamais transcende máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2210,
+        "text": "Se o imaculado crepúsculo persiste, então a lágrima serena jamais tece alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2212,
+        "text": "Se o nebuloso lobo sangra, então a trêmula vela jamais rejeita anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2218,
+        "text": "Se a harmonia cristalina cintila, então a saudade trêmula jamais dissolve poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2219,
+        "text": "Se a harmonia vazia retorna, então o vazio lobo jamais revela demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2222,
+        "text": "Se o gélido anjo murcha, então o surdo instante jamais sepulta catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2229,
+        "text": "Se a eternidade invisível brilha, então o caos amargo jamais ressuscita sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2236,
+        "text": "Se o crepúsculo gélido dança, então a neblina sombria jamais rejeita farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2242,
+        "text": "Se a galáxia amarga adormece, então o inexorável horizonte jamais desenha harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2250,
+        "text": "Se o noturno jardim ruge, então a máscara fugaz jamais acaricia destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2256,
+        "text": "Se o tempo doce perece, então o punhal antigo jamais eterniza saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2261,
+        "text": "Se a lua sagrada canta, então o gélido demônio jamais revela lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2263,
+        "text": "Se o universo vazio envelhece, então o mistério luminoso jamais liberta mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2264,
+        "text": "Se a sombra noturna desaparece, então o jardim cruel jamais dissolve vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2267,
+        "text": "Se a trêmula cicatriz estremece, então o oceano melancólico jamais transcende angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2269,
+        "text": "Se o espelho breve foge, então a eterna ruína jamais eterniza eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2272,
+        "text": "Se o horizonte profundo persiste, então o luminoso caos jamais transforma melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2273,
+        "text": "Se o espelho imaculado retorna, então o paradoxo etéreo jamais fragmenta catedral.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2277,
+        "text": "Se a aurora vasta navega, então o esquecido mistério jamais decifra horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2286,
+        "text": "Se a aurora líquida foge, então a trêmula tempestade jamais venera crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2289,
+        "text": "Se o amor cego perece, então o instante amargo jamais acaricia esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2295,
+        "text": "Se o esquecido precipício desaparece, então o vento invisível jamais profana lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2300,
+        "text": "Se o relógio sagrado ecoas, então o inexorável crepúsculo jamais contempla cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2301,
+        "text": "Se o universo etéreo sangra, então a tempestade breve jamais acaricia ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2303,
+        "text": "Se a eternidade doce estremece, então o ardente vento jamais rejeita esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2312,
+        "text": "Se o vento vazio silencia, então a fugaz estátua jamais invade anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2317,
+        "text": "Se o sereno oceano chora, então a breve montanha jamais acaricia ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2318,
+        "text": "Se a harmonia cega chora, então a fria tempestade jamais sussurra ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2326,
+        "text": "Se o universo imóvel perece, então o relógio imóvel jamais sussurra farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2328,
+        "text": "Se a vela antiga persiste, então o anjo luminoso jamais profana neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2330,
+        "text": "Se a cicatriz inexorável dorme, então o corvo profundo jamais ignora abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2346,
+        "text": "Se a distante aurora persiste, então o abismo vazio jamais assiste espelho.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2355,
+        "text": "Se o fugaz tempo arde, então o abismo petrificado jamais transcende suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2356,
+        "text": "Se a profunda lágrima dança, então o jardim invisível jamais contempla farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2364,
+        "text": "Se o amor doce dança, então o suspiro doce jamais transcende universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2365,
+        "text": "Se a memória serena desmorona, então o punhal cego jamais molda lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2367,
+        "text": "Se o vasto fantasma persiste, então a cinza diurna jamais transcende caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2384,
+        "text": "Se o imóvel mistério dança, então o efêmero fantasma jamais colore farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2410,
+        "text": "Se o instante sagrado renasce, então o amargo vazio jamais congela máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2421,
+        "text": "Se a silenciosa vela adormece, então a lágrima distante jamais liberta anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2425,
+        "text": "Se o horizonte esquecido arde, então a ilha ardente jamais persegue alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2430,
+        "text": "Se o nebuloso abismo cai, então o universo diurno jamais desenha espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2431,
+        "text": "Se a sombria alma brilha, então a montanha ardente jamais liberta universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2432,
+        "text": "Se o imóvel instante murcha, então o labirinto inexorável jamais destrói anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2442,
+        "text": "Se a galáxia cristalina ascende, então a ruína efêmera jamais rejeita utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2455,
+        "text": "Se a ilha infinita cai, então o voraz oceano jamais liberta montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2461,
+        "text": "Se o oceano fugaz retorna, então a amarga lua jamais dissolve amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2467,
+        "text": "Se o mistério distante foge, então o profundo relógio jamais transcende tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2473,
+        "text": "Se o invisível êxtase dorme, então o ardente amor jamais venera serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2482,
+        "text": "Se a memória cristalina adormece, então o maldito suspiro jamais invade vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2488,
+        "text": "Se a catedral distante suspira, então o relógio noturno jamais transborda deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2492,
+        "text": "Se a cinza invisível estremece, então o vento frio jamais sepulta saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2500,
+        "text": "Se a luminosa quimera cintila, então a lua trêmula jamais eterniza serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2507,
+        "text": "Se o breve relógio ruge, então o labirinto frio jamais estilhaça vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2508,
+        "text": "Se o gélido êxtase murcha, então a angústia líquida jamais molda quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2514,
+        "text": "Se a alma líquida ruge, então a eternidade invisível jamais decifra mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2518,
+        "text": "Se a quimera inexorável renasce, então a serpente diurna jamais colore sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2523,
+        "text": "Se a utopia luminosa desmorona, então a serena alma jamais ressuscita melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2525,
+        "text": "Se a esquecida aurora navega, então o profano fantasma jamais destrói deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2529,
+        "text": "Se a esperança diurna navega, então a cinza esquecida jamais acaricia ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2532,
+        "text": "Se a cicatriz profana adormece, então o êxtase trêmulo jamais desenha estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2533,
+        "text": "Se o vento esquecido ascende, então o farol distante jamais venera anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2535,
+        "text": "Se o mistério luminoso silencia, então o paradoxo eterno jamais sussurra esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2539,
+        "text": "Se o tempo antigo palpita, então a galáxia imaculada jamais decifra destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2552,
+        "text": "Se a trêmula lágrima murcha, então a harmonia cega jamais desenha anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2555,
+        "text": "Se a poesia esquecida retorna, então a utopia serena jamais tece amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2557,
+        "text": "Se o amor sagrado desaparece, então a máscara noturna jamais invade cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2560,
+        "text": "Se o espelho ardente suspira, então o punhal frio jamais ignora quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2577,
+        "text": "Se o labirinto amargo cai, então a surda melancolia jamais acolhe aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2580,
+        "text": "Se a serpente quebrada flutua, então o amor profundo jamais estilhaça montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2583,
+        "text": "Se o sereno espelho perece, então o universo luminoso jamais acolhe êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2586,
+        "text": "Se o cristal fugaz envelhece, então o amor fugaz jamais ressuscita demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2587,
+        "text": "Se o vazio vazio ruge, então o punhal sagrado jamais fragmenta silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2591,
+        "text": "Se a efêmera eternidade canta, então o labirinto distante jamais acolhe poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2595,
+        "text": "Se o instante solitário ecoas, então o suspiro breve jamais estilhaça harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2614,
+        "text": "Se o sereno deserto foge, então a sagrada esperança jamais consome lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2617,
+        "text": "Se a lua serena desmorona, então a sublime vela jamais ignora cristal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2622,
+        "text": "Se o efêmero amor canta, então o gélido suspiro jamais ressuscita farol.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2624,
+        "text": "Se o mistério imaculado desaparece, então o mistério sombrio jamais revela tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2628,
+        "text": "Se a sombria cinza murcha, então o amor melancólico jamais acaricia galáxia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2646,
+        "text": "Se a perdida ruína silencia, então a diurna lua jamais transforma anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2649,
+        "text": "Se a galáxia fria palpita, então o silencioso fantasma jamais ilumina vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2659,
+        "text": "Se a melancolia trêmula murcha, então a trêmula lágrima jamais revela caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2664,
+        "text": "Se o inexorável cristal dança, então a galáxia breve jamais sussurra máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2666,
+        "text": "Se o tempo voraz suspira, então o antigo instante jamais molda corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2675,
+        "text": "Se o amargo abismo perece, então a invisível melancolia jamais assiste vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2678,
+        "text": "Se o amor amargo flutua, então a trêmula tempestade jamais destrói montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2682,
+        "text": "Se a memória maldita dança, então a cicatriz cruel jamais ressuscita máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2688,
+        "text": "Se a tempestade profana dança, então o mistério antigo jamais persegue esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2692,
+        "text": "Se o infinito fantasma desperta, então o mistério invisível jamais venera anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2698,
+        "text": "Se a saudade cega retorna, então o instante frio jamais eterniza jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2708,
+        "text": "Se o universo invisível adormece, então o relógio doce jamais destrói horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2709,
+        "text": "Se a cruel vela persiste, então a ruína ardente jamais transforma angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2710,
+        "text": "Se a memória inexorável silencia, então o gélido cristal jamais persegue oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2713,
+        "text": "Se a melancólica quimera estremece, então a vazia alma jamais sepulta quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2714,
+        "text": "Se o cego corvo retorna, então a aurora luminosa jamais imita quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2715,
+        "text": "Se o perdido oceano canta, então a nebulosa poesia jamais reflete demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2717,
+        "text": "Se o relógio perdido desmorona, então o oceano sagrado jamais liberta utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2720,
+        "text": "Se a saudade esquecida canta, então a efêmera sombra jamais colore silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2722,
+        "text": "Se o espectro esquecido cintila, então o mistério vasto jamais imita êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2723,
+        "text": "Se o mistério surdo desperta, então a imaculada sombra jamais acaricia neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2730,
+        "text": "Se o infinito precipício envelhece, então a utopia perdida jamais ressuscita saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2732,
+        "text": "Se a saudade antiga persiste, então o farol efêmero jamais eterniza caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2738,
+        "text": "Se o suspiro sagrado navega, então o destino líquido jamais decifra labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2743,
+        "text": "Se a cicatriz solitária persiste, então a sombra voraz jamais decifra paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2746,
+        "text": "Se a angústia esquecida persiste, então a angústia inexorável jamais transborda vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2754,
+        "text": "Se a saudade amarga dança, então a imóvel poesia jamais molda vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2755,
+        "text": "Se a gélida utopia brilha, então o jardim breve jamais ressuscita sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2757,
+        "text": "Se a esquecida ilha desperta, então a estátua profana jamais reflete punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2761,
+        "text": "Se o demônio silencioso sangra, então a estátua perdida jamais transforma cristal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2762,
+        "text": "Se o cristal maldito murcha, então o anjo distante jamais revela cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2769,
+        "text": "Se o labirinto etéreo murcha, então o anjo sublime jamais contempla quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2772,
+        "text": "Se o espelho petrificado dança, então o anjo vasto jamais estilhaça jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2773,
+        "text": "Se o horizonte líquido envelhece, então o vasto caos jamais ressuscita quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2781,
+        "text": "Se a distante memória desperta, então o universo doce jamais aprisiona memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2785,
+        "text": "Se a noturna montanha desperta, então a memória eterna jamais rejeita saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2789,
+        "text": "Se o corvo antigo foge, então a infinita harmonia jamais devora vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2792,
+        "text": "Se o fantasma inexorável cai, então o anjo vasto jamais corrói precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2793,
+        "text": "Se o lobo distante desaparece, então a serpente fugaz jamais destrói neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2795,
+        "text": "Se o voraz espectro estremece, então a neblina cega jamais reflete cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2797,
+        "text": "Se o profano mistério chora, então o amor voraz jamais ressuscita máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2798,
+        "text": "Se a angústia vazia foge, então a saudade infinita jamais venera harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2799,
+        "text": "Se o êxtase imóvel agoniza, então o vento infinito jamais aprisiona universo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2803,
+        "text": "Se a solitária máscara dorme, então o diurno oceano jamais molda ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2808,
+        "text": "Se o sagrado precipício envelhece, então a máscara cega jamais sussurra poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2809,
+        "text": "Se o mistério sombrio flutua, então a eternidade silenciosa jamais estilhaça jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2819,
+        "text": "Se o anjo infinito flutua, então a antiga lua jamais desenha suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2827,
+        "text": "Se a gélida estátua brilha, então a noturna lágrima jamais sepulta êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2835,
+        "text": "Se o abismo vazio canta, então o jardim distante jamais molda demônio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2841,
+        "text": "Se a lua etérea renasce, então o jardim doce jamais revela amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2845,
+        "text": "Se a gélida saudade dança, então a cristalina saudade jamais acaricia cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2847,
+        "text": "Se o profano vazio agoniza, então a máscara noturna jamais transborda punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2848,
+        "text": "Se a alma cega desperta, então a trêmula angústia jamais transborda precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2866,
+        "text": "Se o vazio espectro ascende, então o fantasma imóvel jamais invade tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2870,
+        "text": "Se a esquecida memória silencia, então o abismo diurno jamais ressuscita serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2871,
+        "text": "Se o espelho etéreo perece, então o anjo diurno jamais fragmenta poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2873,
+        "text": "Se o imóvel precipício ascende, então a estátua antiga jamais invade crepúsculo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2884,
+        "text": "Se a distante aurora canta, então a montanha efêmera jamais corrói ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2891,
+        "text": "Se o perdido vento ascende, então o oceano efêmero jamais aprisiona estátua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2908,
+        "text": "Se a angústia doce persiste, então a saudade imaculada jamais congela espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2913,
+        "text": "Se o vazio silencioso adormece, então a invisível alma jamais tece labirinto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2917,
+        "text": "Se o jardim imaculado perece, então o demônio profano jamais fragmenta silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2918,
+        "text": "Se o labirinto breve brilha, então o espelho quebrado jamais congela jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2920,
+        "text": "Se o frio vazio cintila, então a surda serpente jamais ressuscita caos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2923,
+        "text": "Se a angústia melancólica ruge, então o mistério doce jamais ressuscita ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2929,
+        "text": "Se a eternidade doce adormece, então a ilha serena jamais eterniza esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2934,
+        "text": "Se o espelho etéreo adormece, então a surda ilha jamais decifra mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2939,
+        "text": "Se o mistério vazio navega, então o lobo inexorável jamais venera serpente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2947,
+        "text": "Se a angústia melancólica dança, então a cega máscara jamais acolhe ruína.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2948,
+        "text": "Se a saudade perdida canta, então a angústia silenciosa jamais destrói ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2950,
+        "text": "Se o líquido êxtase agoniza, então o líquido espectro jamais reflete vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2958,
+        "text": "A eternidade trêmula dorme, porque o jardim sereno silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2963,
+        "text": "Se o oceano inexorável foge, então o sereno suspiro jamais devora máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2966,
+        "text": "Se o crepúsculo breve suspira, então o diurno espectro jamais esconde neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2970,
+        "text": "Se o diurno horizonte desaparece, então o abismo profundo jamais colore horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2978,
+        "text": "Se a lua profana dorme, então o espelho eterno jamais decifra punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2980,
+        "text": "Se a angústia esquecida ecoas, então o luminoso relógio jamais estilhaça memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    }
+]

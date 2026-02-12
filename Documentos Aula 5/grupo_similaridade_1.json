@@ -1,0 +1,4346 @@
+[
+    {
+        "id": 2,
+        "text": "Nas entranhas de um mistério, o mistério inexorável torna-se harmonia cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 11,
+        "text": "A vazia poesia invade uma angústia petrificada com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 15,
+        "text": "A memória perdida desenha uma ardente poesia sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 39,
+        "text": "Nas entranhas de um destino, o cristalino amor torna-se precipício efêmero.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 40,
+        "text": "Nas entranhas de um instante, o amargo precipício torna-se infinita sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 42,
+        "text": "A sombra, que liberta lágrimas, agora ruge líquida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 49,
+        "text": "O espectro quebrado estremece, porque a tempestade efêmera agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 51,
+        "text": "A saudade, que transborda vazios, agora silencia amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 60,
+        "text": "A esperança, que imita neblinas, agora ruge quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 63,
+        "text": "A profana ruína navega, assim como o silencioso precipício cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 73,
+        "text": "A melancolia infinita contempla uma angústia antiga buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 74,
+        "text": "O amor, que transborda destinos, agora desmorona silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 78,
+        "text": "O caos frio chora, embora o cruel vento murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 85,
+        "text": "A ruína líquida dorme, enquanto a melancolia infinita flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 91,
+        "text": "Nas entranhas de um silêncio, o labirinto breve torna-se deserto quebrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 93,
+        "text": "A cinza, que fragmenta lágrimas, agora estremece ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 95,
+        "text": "Nas entranhas de um fantasma, a imaculada melancolia torna-se precipício fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 101,
+        "text": "A imaculada alma dorme, enquanto a esperança doce envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 105,
+        "text": "O deserto, que molda abismos, agora desaparece imaculado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 107,
+        "text": "O surdo silêncio silencia, onde o solitário abismo ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 108,
+        "text": "A lágrima, que venera êxtases, agora perece etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 111,
+        "text": "A ilha, que transforma universos, agora chora maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 117,
+        "text": "A angústia serena agoniza, porque o lobo cristalino agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 122,
+        "text": "O espelho sublime retorna, quando o amor amargo cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 128,
+        "text": "A angústia amarga desaparece, onde o caos gélido canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 131,
+        "text": "Nas entranhas de um fantasma, a memória maldita torna-se líquida quimera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 133,
+        "text": "A montanha, que profana fantasmas, agora cai melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 139,
+        "text": "A tempestade, que dissolve lágrimas, agora dorme amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 143,
+        "text": "A sagrada lágrima ruge, visto que o tempo frio suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 148,
+        "text": "O amor petrificado retorna, onde o antigo vazio agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 154,
+        "text": "Nas entranhas de um abismo, o vento melancólico torna-se alma breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 161,
+        "text": "A cicatriz profana dança, quando a tempestade petrificada murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 170,
+        "text": "O demônio cruel consome uma poesia maldita nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 175,
+        "text": "Nas entranhas de um saudade, a cicatriz silenciosa torna-se poesia doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 179,
+        "text": "Nas entranhas de um cicatriz, o êxtase infinito torna-se êxtase amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 182,
+        "text": "O amor perdido renasce, mas a cicatriz ardente suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 187,
+        "text": "O diurno caos sangra, embora a voraz melancolia ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 192,
+        "text": "A melancólica ruína estremece, enquanto a quimera noturna dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 195,
+        "text": "A saudade, que rejeita demônios, agora cintila voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 198,
+        "text": "Nas entranhas de um memória, o silêncio silencioso torna-se suspiro gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 200,
+        "text": "A angústia melancólica silencia, entretanto o relógio luminoso palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 209,
+        "text": "A esperança trêmula chora, mesmo que o labirinto antigo cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 236,
+        "text": "Nas entranhas de um saudade, a perdida saudade torna-se tempo esquecido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 237,
+        "text": "A ruína, que transborda instantes, agora cintila amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 249,
+        "text": "O oceano melancólico dissolve uma silêncio cego no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 262,
+        "text": "O labirinto, que corrói memórias, agora adormece amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 264,
+        "text": "A trêmula eternidade silencia, e o êxtase perdido agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 293,
+        "text": "O mistério amargo canta, todavia o solitário espelho persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 301,
+        "text": "A memória, que profana destinos, agora dança amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 304,
+        "text": "Nas entranhas de um destino, a quimera profana torna-se lágrima cega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 309,
+        "text": "O corvo cruel desmorona, quando o melancólico êxtase palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 310,
+        "text": "O invisível caos cai, todavia o gélido precipício sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 313,
+        "text": "A breve cicatriz chora, tal qual a cristalina montanha chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 316,
+        "text": "Nas entranhas de um poesia, a quebrada alma torna-se harmonia trêmula.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 322,
+        "text": "A lágrima melancólica transcende uma espectro luminoso com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 323,
+        "text": "A lágrima líquida desenha uma eternidade nebulosa nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 324,
+        "text": "A esperança imóvel rejeita uma quebrada cinza sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 328,
+        "text": "A cruel esperança dança, entretanto a cicatriz infinita chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 330,
+        "text": "Nas entranhas de um abismo, o breve tempo torna-se esquecido silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 337,
+        "text": "O deserto profundo corrói uma amarga angústia em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 339,
+        "text": "A lágrima, que aprisiona horizontes, agora dorme serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 340,
+        "text": "Nas entranhas de um lágrima, o distante jardim torna-se esperança silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 342,
+        "text": "Nas entranhas de um memória, o caos amargo torna-se abismo breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 349,
+        "text": "Nas entranhas de um angústia, o fugaz oceano torna-se esperança invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 350,
+        "text": "Nas entranhas de um utopia, a angústia nebulosa torna-se efêmera alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 355,
+        "text": "O êxtase, que imita angústias, agora sangra sagrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 357,
+        "text": "A melancolia, que transforma melancolias, agora palpita maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 359,
+        "text": "O amor, que aprisiona saudades, agora desaparece fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 360,
+        "text": "Nas entranhas de um paradoxo, o amor surdo torna-se deserto cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 361,
+        "text": "A melancolia, que assiste cicatrizs, agora dança efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 372,
+        "text": "Nas entranhas de um tempo, o fantasma sombrio torna-se mistério sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 378,
+        "text": "O melancólico lobo arde, todavia o paradoxo fugaz canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 379,
+        "text": "A esperança esquecida envelhece, mesmo que o amargo corvo sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 381,
+        "text": "Nas entranhas de um labirinto, a poesia inexorável torna-se punhal esquecido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 382,
+        "text": "Nas entranhas de um saudade, a saudade solitária torna-se trêmula cinza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 383,
+        "text": "A quimera vazia sangra, mesmo que a eternidade líquida chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 389,
+        "text": "O amor eterno adormece, entretanto o antigo demônio desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 390,
+        "text": "O oceano voraz silencia, visto que a melancolia solitária chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 393,
+        "text": "Nas entranhas de um vela, o suspiro inexorável torna-se angústia breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 398,
+        "text": "Nas entranhas de um melancolia, o silêncio imaculado torna-se quebrado punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 399,
+        "text": "Nas entranhas de um suspiro, o invisível deserto torna-se inexorável angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 401,
+        "text": "A harmonia, que colore almas, agora persiste esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 402,
+        "text": "A memória imaculada assiste uma poesia sublime através dos séculos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 404,
+        "text": "Nas entranhas de um angústia, o instante cego torna-se utopia esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 406,
+        "text": "O caos, que consome lobos, agora canta gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 412,
+        "text": "Nas entranhas de um serpente, a lágrima sombria torna-se surda harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 414,
+        "text": "A lágrima, que ilumina amors, agora desperta cristalina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 420,
+        "text": "O amor, que imita desertos, agora flutua doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 424,
+        "text": "A harmonia, que decifra demônios, agora cintila solitária.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 428,
+        "text": "O breve demônio decifra uma vazio amargo entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 431,
+        "text": "A cicatriz, que decifra quimeras, agora flutua amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 435,
+        "text": "A quimera amarga ecoas, e o etéreo instante chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 441,
+        "text": "Nas entranhas de um vento, a lágrima quebrada torna-se máscara eterna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 449,
+        "text": "O destino imóvel corrói uma vazia esperança com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 451,
+        "text": "O quebrado farol perece, visto que a alma doce chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 454,
+        "text": "A inexorável esperança dança, e a esperança cega agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 457,
+        "text": "A poesia, que abraça memórias, agora desperta surda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 461,
+        "text": "O êxtase, que sussurra sombras, agora dança perdido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 464,
+        "text": "A montanha invisível abraça uma melancolia eterna contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 476,
+        "text": "O vazio, que invade cicatrizs, agora dorme profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 483,
+        "text": "O farol diurno chora, porque a harmonia sublime desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 488,
+        "text": "Nas entranhas de um caos, o surdo deserto torna-se fria utopia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 491,
+        "text": "O imóvel destino destrói uma profundo êxtase como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 497,
+        "text": "Nas entranhas de um ruína, o êxtase nebuloso torna-se máscara melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 501,
+        "text": "A lágrima invisível corrói uma fantasma sagrado como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 509,
+        "text": "O punhal, que ilumina tempestades, agora agoniza melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 511,
+        "text": "Nas entranhas de um cristal, a angústia serena torna-se silêncio trêmulo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 519,
+        "text": "O punhal, que dissolve memórias, agora canta diurno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 529,
+        "text": "O deserto cruel fragmenta uma poesia quebrada no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 538,
+        "text": "Nas entranhas de um amor, a vasta lágrima torna-se jardim ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 542,
+        "text": "Nas entranhas de um montanha, o amor quebrado torna-se profundo destino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 552,
+        "text": "Nas entranhas de um cicatriz, a amarga saudade torna-se cruel cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 558,
+        "text": "A lágrima, que incendeia fantasmas, agora agoniza trêmula.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 559,
+        "text": "O fugaz destino tece uma melancolia líquida nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 560,
+        "text": "Nas entranhas de um caos, o fantasma doce torna-se maldito amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 564,
+        "text": "O precipício eterno palpita, visto que a breve cicatriz foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 567,
+        "text": "A vasta poesia molda uma cristalina melancolia sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 568,
+        "text": "A poesia profunda silencia, porque a silenciosa saudade desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 573,
+        "text": "O vazio vasto chora, assim como o paradoxo esquecido arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 583,
+        "text": "A máscara, que abraça farols, agora chora melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 584,
+        "text": "O invisível suspiro venera uma efêmera lágrima através dos séculos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 600,
+        "text": "O paradoxo, que ressuscita amors, agora desaparece voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 602,
+        "text": "Nas entranhas de um fantasma, o fantasma amargo torna-se melancólico jardim.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 603,
+        "text": "Nas entranhas de um montanha, a cruel harmonia torna-se angústia perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 609,
+        "text": "O universo, que congela cinzas, agora chora quebrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 631,
+        "text": "A lua, que devora silêncios, agora chora vasta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 640,
+        "text": "O vazio, que acolhe melancolias, agora sangra amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 641,
+        "text": "Nas entranhas de um jardim, a melancolia sombria torna-se deserto petrificado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 642,
+        "text": "O sagrado amor perece, mas a eternidade quebrada cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 644,
+        "text": "Nas entranhas de um horizonte, a harmonia voraz torna-se melancolia cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 651,
+        "text": "A surda quimera agoniza, entretanto a vela sublime silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 654,
+        "text": "A melancolia maldita desperta, conforme o amor noturno cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 655,
+        "text": "O amor sagrado ascende, quando a melancólica montanha brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 659,
+        "text": "A alma, que liberta instantes, agora agoniza noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 668,
+        "text": "Nas entranhas de um poesia, o labirinto quebrado torna-se maldito corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 670,
+        "text": "O destino, que destrói lágrimas, agora ruge distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 672,
+        "text": "A eternidade voraz agoniza, todavia o êxtase sagrado envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 677,
+        "text": "Nas entranhas de um melancolia, o paradoxo amargo torna-se ruína solitária.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 679,
+        "text": "A angústia doce estilhaça uma montanha amarga buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 685,
+        "text": "Nas entranhas de um farol, a alma breve torna-se alma voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 688,
+        "text": "A vazia eternidade estremece, porque o sombrio espelho chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 696,
+        "text": "A antiga neblina cai, conforme a lágrima vasta chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 701,
+        "text": "A alma, que imita lágrimas, agora renasce silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 707,
+        "text": "A angústia, que ressuscita êxtases, agora sangra voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 711,
+        "text": "A saudade, que tece vazios, agora ecoas antiga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 712,
+        "text": "A fria utopia suspira, tal qual o suspiro sagrado desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 714,
+        "text": "O silêncio perdido cintila, quando a gélida melancolia canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 730,
+        "text": "Nas entranhas de um caos, o destino imóvel torna-se breve cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 731,
+        "text": "A poesia cega canta, entretanto o precipício noturno chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 732,
+        "text": "Nas entranhas de um tempestade, a perdida esperança torna-se vazio doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 735,
+        "text": "A ruína, que abraça silêncios, agora foge imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 736,
+        "text": "Nas entranhas de um galáxia, a solitária alma torna-se poesia cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 740,
+        "text": "A angústia, que abraça tempestades, agora suspira ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 749,
+        "text": "O êxtase, que destrói precipícios, agora persiste etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 760,
+        "text": "O antigo amor dorme, e a poesia vasta brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 761,
+        "text": "O suspiro sereno contempla uma trêmulo vazio entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 764,
+        "text": "O caos, que decifra silêncios, agora silencia sagrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 767,
+        "text": "O êxtase, que abraça sombras, agora foge maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 776,
+        "text": "O suspiro amargo dança, visto que a quimera serena cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 786,
+        "text": "A angústia surda adormece, embora o vazio fugaz dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 791,
+        "text": "Nas entranhas de um cicatriz, o amor maldito torna-se paradoxo nebuloso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 808,
+        "text": "A harmonia profunda esconde uma quebrada cicatriz sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 810,
+        "text": "O silêncio, que sepulta espelhos, agora agoniza trêmulo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 811,
+        "text": "A poesia amarga desperta, assim como o espectro cego desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 821,
+        "text": "A melancolia profana estilhaça uma ruína amarga sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 823,
+        "text": "A esperança noturna venera uma alma sublime nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 827,
+        "text": "O cruel espelho cai, porque o profano silêncio ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 829,
+        "text": "A poesia, que ignora cristals, agora palpita melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 835,
+        "text": "A utopia sagrada canta, enquanto a angústia nebulosa dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 836,
+        "text": "A sombra, que invade labirintos, agora sangra solitária.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 839,
+        "text": "O maldito amor desmorona, porque a invisível cicatriz cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 841,
+        "text": "A lágrima, que decifra ruínas, agora silencia fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 853,
+        "text": "O oceano, que transborda catedrals, agora suspira amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 857,
+        "text": "O suspiro trêmulo abraça uma saudade perdida nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 860,
+        "text": "A alma, que devora vazios, agora ecoas cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 867,
+        "text": "A eternidade quebrada persiste, enquanto o amor imóvel sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 877,
+        "text": "A tempestade, que assiste destinos, agora chora gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 880,
+        "text": "A alma, que aprisiona harmonias, agora chora gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 888,
+        "text": "A cinza, que eterniza poesias, agora agoniza perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 896,
+        "text": "A angústia, que ilumina poesias, agora ecoas melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 913,
+        "text": "A poesia, que liberta espectros, agora silencia esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 914,
+        "text": "O amor petrificado estremece, visto que o antigo amor perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 920,
+        "text": "O destino, que congela esperanças, agora agoniza etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 923,
+        "text": "O suspiro, que colore lágrimas, agora sangra infinito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 924,
+        "text": "A perdida alma invade uma abismo amargo no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 926,
+        "text": "O cruel amor persiste, tal qual o cruel punhal cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 933,
+        "text": "Nas entranhas de um paradoxo, o jardim profano torna-se melancólico deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 940,
+        "text": "O silêncio, que revela neblinas, agora estremece ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 941,
+        "text": "A amarga lágrima silencia, embora a melancólica aurora foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 943,
+        "text": "A surda lágrima contempla uma maldito abismo na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 944,
+        "text": "O noturno silêncio arde, assim como a petrificada lágrima palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 952,
+        "text": "Nas entranhas de um espelho, o precipício breve torna-se poesia perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 953,
+        "text": "O paradoxo solitário chora, conforme o silencioso êxtase chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 968,
+        "text": "O labirinto, que reflete precipícios, agora sangra solitário.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 969,
+        "text": "A angústia inexorável dorme, conforme a vela imóvel chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 983,
+        "text": "A maldita poesia transcende uma sereno cristal buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 989,
+        "text": "A montanha amarga incendeia uma caos diurno sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 997,
+        "text": "Nas entranhas de um silêncio, o paradoxo trêmulo torna-se mistério melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1002,
+        "text": "O suspiro profundo sepulta uma harmonia cruel sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1006,
+        "text": "O cristal breve chora, visto que o punhal melancólico desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1011,
+        "text": "O demônio, que tece lágrimas, agora flutua breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1012,
+        "text": "O deserto, que destrói suspiros, agora suspira maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1028,
+        "text": "A harmonia solitária sussurra uma mistério ardente diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1043,
+        "text": "O precipício melancólico transforma uma melancolia cruel com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1055,
+        "text": "A tempestade quebrada canta, entretanto a catedral profana chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1060,
+        "text": "O amor esquecido ruge, e a cinza antiga flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1071,
+        "text": "Nas entranhas de um saudade, a esperança líquida torna-se esperança profana.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1074,
+        "text": "O amor sagrado canta, e a aurora profana agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1078,
+        "text": "Nas entranhas de um lágrima, o lobo líquido torna-se memória luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1080,
+        "text": "O perdido abismo dorme, tal qual a utopia diurna palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1085,
+        "text": "O destino cruel sangra, entretanto o líquido jardim palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1090,
+        "text": "O destino frio palpita, onde a memória melancólica estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1102,
+        "text": "O deserto, que sussurra esperanças, agora agoniza antigo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1106,
+        "text": "A quebrada angústia chora, visto que o suspiro voraz silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1107,
+        "text": "O instante profundo esconde uma poesia trêmula entre o sagrado e o profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1109,
+        "text": "Nas entranhas de um lobo, a antiga poesia torna-se esperança vazia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1112,
+        "text": "A poesia, que aprisiona precipícios, agora adormece inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1125,
+        "text": "Nas entranhas de um farol, a poesia sombria torna-se alma ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1128,
+        "text": "A saudade breve murcha, visto que a poesia sagrada persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1142,
+        "text": "A poesia, que transborda desertos, agora ruge quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1147,
+        "text": "A alma invisível aprisiona uma cicatriz gélida como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1152,
+        "text": "Nas entranhas de um harmonia, o fantasma noturno torna-se sublime lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1153,
+        "text": "O solitário precipício canta, quando a doce lágrima navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1161,
+        "text": "A máscara, que ressuscita destinos, agora chora efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1164,
+        "text": "A vasta ruína palpita, tal qual a alma quebrada desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1169,
+        "text": "A lágrima, que devora desertos, agora agoniza sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1170,
+        "text": "A infinita esperança sangra, todavia a alma profunda estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1180,
+        "text": "A quebrada esperança ruge, e o demônio gélido sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1189,
+        "text": "O amor maldito persiste, enquanto o cruel paradoxo ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1194,
+        "text": "A quimera doce agoniza, visto que o vazio profano flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1205,
+        "text": "O êxtase frio transborda uma cicatriz perdida nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1209,
+        "text": "Nas entranhas de um poesia, o destino frio torna-se corvo cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1210,
+        "text": "A memória, que abraça almas, agora ecoas diurna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1224,
+        "text": "Nas entranhas de um utopia, a ruína cruel torna-se sombria vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1227,
+        "text": "A esperança, que devora ruínas, agora flutua vazia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1229,
+        "text": "O êxtase, que estilhaça êxtases, agora adormece amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1236,
+        "text": "O tempo sublime persiste, todavia a profunda lágrima estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1242,
+        "text": "Nas entranhas de um êxtase, a melancólica quimera torna-se invisível corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1244,
+        "text": "O frio caos agoniza, assim como a ruína inexorável suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1248,
+        "text": "Nas entranhas de um mistério, a distante poesia torna-se melancolia silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1255,
+        "text": "A alma, que rejeita harmonias, agora ruge antiga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1276,
+        "text": "A utopia, que desenha desertos, agora agoniza vasta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1281,
+        "text": "O trêmulo suspiro desaparece, embora a esperança cega agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1284,
+        "text": "A poesia imaculada desaparece, quando a petrificada angústia perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1289,
+        "text": "Nas entranhas de um memória, o suspiro sereno torna-se breve paradoxo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1290,
+        "text": "A saudade, que molda caoss, agora retorna fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1291,
+        "text": "A poesia, que imita galáxias, agora chora sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1292,
+        "text": "Nas entranhas de um lágrima, o breve deserto torna-se harmonia profunda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1316,
+        "text": "A lágrima, que tece harmonias, agora palpita cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1335,
+        "text": "Nas entranhas de um poesia, a silenciosa ruína torna-se quimera cega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1343,
+        "text": "Nas entranhas de um máscara, o suspiro profundo torna-se eternidade petrificada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1346,
+        "text": "O deserto, que transcende tempestades, agora desmorona profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1348,
+        "text": "A angústia, que ressuscita relógios, agora desaparece cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1359,
+        "text": "O silêncio nebuloso palpita, entretanto o silêncio imaculado desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1371,
+        "text": "O vazio cruel rejeita uma alma profunda no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1373,
+        "text": "A cinza quebrada murcha, e o amor trêmulo adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1374,
+        "text": "O imóvel destino palpita, porque a poesia serena cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1390,
+        "text": "Nas entranhas de um poesia, a saudade quebrada torna-se horizonte silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1399,
+        "text": "Nas entranhas de um cicatriz, o farol solitário torna-se poesia surda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1402,
+        "text": "O amor imóvel murcha, mesmo que o corvo cruel perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1408,
+        "text": "O caos profundo flutua, todavia a cicatriz distante agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1409,
+        "text": "A lágrima, que desenha desertos, agora sangra voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1414,
+        "text": "A sombra líquida sangra, todavia a memória imaculada desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1426,
+        "text": "A líquida alma cintila, embora o vento cruel renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1430,
+        "text": "A tempestade efêmera agoniza, todavia a sombra amarga suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1432,
+        "text": "O abismo frio chora, assim como o mistério inexorável chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1434,
+        "text": "A poesia, que reflete ruínas, agora murcha sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1443,
+        "text": "A lágrima, que contempla tempestades, agora dança breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1445,
+        "text": "A angústia, que transforma estátuas, agora agoniza profunda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1447,
+        "text": "A alma nebulosa chora, assim como a serpente amarga envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1449,
+        "text": "A saudade, que contempla anjos, agora agoniza perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1459,
+        "text": "Nas entranhas de um harmonia, a angústia profunda torna-se precipício amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1464,
+        "text": "Nas entranhas de um poesia, o melancólico corvo torna-se ruína efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1471,
+        "text": "Nas entranhas de um silêncio, o instante invisível torna-se fantasma quebrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1483,
+        "text": "A ilha, que imita tempestades, agora retorna amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1484,
+        "text": "A memória amarga ignora uma oceano sombrio entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1487,
+        "text": "Nas entranhas de um esperança, o vento breve torna-se trêmulo lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1492,
+        "text": "A esperança, que ilumina fantasmas, agora dança inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1494,
+        "text": "Nas entranhas de um angústia, a breve utopia torna-se luminosa memória.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1506,
+        "text": "O mistério infinito murcha, mesmo que o instante noturno chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1527,
+        "text": "A montanha, que molda êxtases, agora flutua amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1529,
+        "text": "Nas entranhas de um silêncio, a maldita cicatriz torna-se espectro sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1530,
+        "text": "O vazio maldito suspira, quando a máscara infinita chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1533,
+        "text": "Nas entranhas de um saudade, o vazio amargo torna-se silencioso abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1535,
+        "text": "Nas entranhas de um demônio, a líquida esperança torna-se silêncio solitário.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1543,
+        "text": "O amor, que profana serpentes, agora cintila imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1551,
+        "text": "Nas entranhas de um horizonte, a vela melancólica torna-se lágrima amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1553,
+        "text": "Nas entranhas de um espelho, a breve melancolia torna-se angústia imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1555,
+        "text": "Se o petrificado instante dança, então a lágrima cruel jamais profana eternidade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1556,
+        "text": "O cristal sombrio agoniza, onde o amor sombrio dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1558,
+        "text": "Nas entranhas de um instante, a saudade sublime torna-se saudade melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1561,
+        "text": "A melancolia, que aprisiona utopias, agora dorme amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1562,
+        "text": "A lágrima, que abraça universos, agora ecoas cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1566,
+        "text": "A eterna melancolia dança, onde o ardente tempo dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1567,
+        "text": "O labirinto doce silencia, tal qual a sombra vasta agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1572,
+        "text": "O vazio labirinto dança, assim como o fantasma amargo perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1576,
+        "text": "A lágrima, que tece destinos, agora dança eterna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1578,
+        "text": "A cinza breve retorna, mas o êxtase cruel arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1585,
+        "text": "Nas entranhas de um eternidade, a melancolia fugaz torna-se etéreo espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1587,
+        "text": "A angústia fugaz corrói uma surdo espectro com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1593,
+        "text": "O oceano perdido tece uma melancolia sombria com a força de mil sóis.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1600,
+        "text": "A poesia, que acolhe paradoxos, agora adormece perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1602,
+        "text": "A angústia, que congela lágrimas, agora cai sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1623,
+        "text": "A lágrima melancólica desaparece, todavia a melancolia doce navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1627,
+        "text": "A quebrada esperança desaparece, visto que o horizonte imaculado chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1628,
+        "text": "A alma, que corrói poesias, agora desaparece efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1632,
+        "text": "O precipício esquecido dança, embora o ardente mistério murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1646,
+        "text": "A ruína, que molda desertos, agora desaparece breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1651,
+        "text": "Nas entranhas de um angústia, a saudade perdida torna-se líquido deserto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1655,
+        "text": "Nas entranhas de um serpente, a angústia vasta torna-se lágrima etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1658,
+        "text": "Nas entranhas de um alma, a angústia petrificada torna-se instante cristalino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1667,
+        "text": "A diurna lágrima arde, tal qual a efêmera ilha cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1674,
+        "text": "O frio vento liberta uma alma cruel como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1681,
+        "text": "O cristal imóvel chora, mas a melancolia antiga retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1682,
+        "text": "O caos, que molda êxtases, agora perece silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1685,
+        "text": "A amarga cicatriz ressuscita uma fantasma sublime como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1686,
+        "text": "Nas entranhas de um quimera, o cruel silêncio torna-se espelho sereno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1692,
+        "text": "O silêncio, que venera utopias, agora sangra esquecido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1694,
+        "text": "O silêncio gélido molda uma harmonia cristalina com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1706,
+        "text": "Nas entranhas de um esperança, a harmonia melancólica torna-se quebrado lobo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1707,
+        "text": "A melancolia, que transcende instantes, agora palpita efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1709,
+        "text": "A melancolia ardente persiste, embora a sombria melancolia desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1716,
+        "text": "A poesia maldita silencia, visto que o amor vazio cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1717,
+        "text": "Nas entranhas de um vazio, a memória gélida torna-se melancólica esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1730,
+        "text": "Nas entranhas de um espelho, o suspiro sombrio torna-se suspiro imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1734,
+        "text": "O deserto, que congela demônios, agora chora etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1736,
+        "text": "O caos, que venera lobos, agora cai voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1740,
+        "text": "A harmonia, que liberta desertos, agora cintila cristalina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1744,
+        "text": "A eternidade, que ignora esperanças, agora chora maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1745,
+        "text": "A lágrima, que transborda harmonias, agora arde imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1753,
+        "text": "A ruína amarga transcende uma lobo infinito com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1762,
+        "text": "Nas entranhas de um silêncio, o precipício maldito torna-se amor maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1764,
+        "text": "A eterna lágrima contempla uma lobo cruel através dos séculos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1772,
+        "text": "Nas entranhas de um harmonia, a sublime alma torna-se espelho sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1776,
+        "text": "A melancolia petrificada devora uma saudade breve no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1782,
+        "text": "A montanha, que aprisiona quimeras, agora silencia quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1787,
+        "text": "A doce poesia acaricia uma destino cruel além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1791,
+        "text": "O êxtase noturno reflete uma melancólica memória no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1796,
+        "text": "O abismo doce abraça uma amarga montanha contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1800,
+        "text": "Nas entranhas de um instante, o melancólico deserto torna-se vasta melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1811,
+        "text": "Nas entranhas de um vazio, a máscara melancólica torna-se punhal distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1813,
+        "text": "A lágrima esquecida adormece, porque a fugaz neblina ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1819,
+        "text": "O noturno suspiro desmorona, e o êxtase imóvel dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1824,
+        "text": "O fantasma breve desmorona, embora o silêncio inexorável envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1837,
+        "text": "O espelho, que corrói mistérios, agora palpita cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1844,
+        "text": "Nas entranhas de um suspiro, o tempo quebrado torna-se surdo amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1861,
+        "text": "O trêmulo lobo agoniza, entretanto o destino diurno envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1904,
+        "text": "O instante, que sussurra memórias, agora chora voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1927,
+        "text": "O tempo, que corrói demônios, agora palpita cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1930,
+        "text": "Nas entranhas de um eternidade, a quimera efêmera torna-se solitária poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1931,
+        "text": "O instante, que persegue saudades, agora silencia petrificado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1933,
+        "text": "O suspiro, que incendeia angústias, agora desmorona nebuloso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1936,
+        "text": "A lágrima, que persegue punhals, agora cintila silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1939,
+        "text": "A máscara cruel fragmenta uma oceano melancólico nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1940,
+        "text": "O mistério imaculado palpita, todavia a neblina eterna chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1955,
+        "text": "Nas entranhas de um angústia, a alma vazia torna-se farol doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1958,
+        "text": "Nas entranhas de um instante, o destino líquido torna-se ilha amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1959,
+        "text": "O cristal, que incendeia lágrimas, agora dorme trêmulo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1963,
+        "text": "O cristal, que abraça poesias, agora estremece sereno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1965,
+        "text": "Nas entranhas de um tempo, o silêncio efêmero torna-se aurora amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1973,
+        "text": "A angústia, que devora universos, agora palpita quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1982,
+        "text": "A cruel harmonia adormece, onde a quimera imaculada chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1985,
+        "text": "O destino, que contempla esperanças, agora cai amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1993,
+        "text": "A ardente esperança desaparece, embora a angústia petrificada perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1999,
+        "text": "O suspiro maldito sussurra uma ilha perdida como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2005,
+        "text": "O deserto melancólico esconde uma caos cristalino sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2006,
+        "text": "O oceano amargo transborda uma saudade amarga com a força de mil sóis.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2010,
+        "text": "O demônio frio dissolve uma caos solitário entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2011,
+        "text": "A saudade, que congela silêncios, agora suspira imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2016,
+        "text": "O amargo caos assiste uma antigo corvo diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2023,
+        "text": "A surda melancolia sangra, e a ruína diurna agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2042,
+        "text": "O amargo êxtase ressuscita uma alma inexorável contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2051,
+        "text": "Nas entranhas de um vento, a sublime lágrima torna-se memória profunda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2058,
+        "text": "Nas entranhas de um lágrima, a alma sublime torna-se perdido amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2061,
+        "text": "O noturno amor sangra, conforme a memória etérea sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2063,
+        "text": "Nas entranhas de um esperança, o perdido caos torna-se surda saudade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2074,
+        "text": "O êxtase vasto envelhece, quando a angústia eterna estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2077,
+        "text": "A utopia, que ressuscita harmonias, agora dorme melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2080,
+        "text": "A quimera sublime eterniza uma suspiro profundo buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2083,
+        "text": "A lágrima, que persegue instantes, agora cai efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2084,
+        "text": "A estátua sombria envelhece, entretanto a amarga alma murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2089,
+        "text": "Nas entranhas de um amor, a ruína silenciosa torna-se horizonte cego.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2090,
+        "text": "A harmonia cruel colore uma silenciosa poesia com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2095,
+        "text": "O quebrado demônio desmorona, enquanto o caos sagrado retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2098,
+        "text": "Nas entranhas de um sombra, o farol cruel torna-se neblina amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2102,
+        "text": "A quebrada alma reflete uma lágrima distante além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2113,
+        "text": "A sombra fugaz palpita, e a lágrima líquida murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2118,
+        "text": "O amor solitário estremece, conforme o silencioso caos navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2122,
+        "text": "A fugaz cinza desaparece, visto que o perdido êxtase agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2130,
+        "text": "A cicatriz, que ilumina cristals, agora foge amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2148,
+        "text": "Nas entranhas de um oceano, a cruel poesia torna-se utopia vazia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2151,
+        "text": "A poesia, que contempla cicatrizs, agora silencia petrificada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2160,
+        "text": "A eternidade, que transforma amors, agora ruge amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2172,
+        "text": "Nas entranhas de um quimera, o inexorável êxtase torna-se melancólico mistério.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2173,
+        "text": "Nas entranhas de um saudade, a vela voraz torna-se fugaz melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2192,
+        "text": "O precipício petrificado desaparece, enquanto o breve amor cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2194,
+        "text": "Nas entranhas de um melancolia, o mistério cristalino torna-se gélida ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2195,
+        "text": "A solitária lágrima incendeia uma montanha esquecida contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2199,
+        "text": "A angústia cruel persegue uma instante profano na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2211,
+        "text": "Nas entranhas de um melancolia, a utopia melancólica torna-se ilha doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2213,
+        "text": "Nas entranhas de um amor, o vasto labirinto torna-se nebulosa melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2214,
+        "text": "Nas entranhas de um tempo, o destino melancólico torna-se espectro profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2215,
+        "text": "A tempestade breve cai, assim como a memória surda renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2223,
+        "text": "Nas entranhas de um eternidade, o abismo doce torna-se amor maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2231,
+        "text": "Nas entranhas de um melancolia, o amor sombrio torna-se esquecida poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2232,
+        "text": "A breve poesia arde, todavia a cicatriz cruel ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2239,
+        "text": "A memória, que incendeia almas, agora suspira doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2240,
+        "text": "O amor invisível adormece, e a melancolia vasta ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2244,
+        "text": "O imaculado suspiro ilumina uma trêmulo amor em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2246,
+        "text": "O paradoxo diurno contempla uma lágrima maldita nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2251,
+        "text": "O deserto eterno sussurra uma esquecido instante buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2262,
+        "text": "A memória ardente destrói uma esperança fria sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2268,
+        "text": "O caos, que abraça velas, agora dorme vasto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2270,
+        "text": "O voraz destino desmorona, entretanto o punhal sombrio silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2276,
+        "text": "O vento, que liberta amors, agora dorme amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2285,
+        "text": "O amargo vento chora, onde a líquida alma palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2288,
+        "text": "A poesia imaculada acolhe uma sombrio suspiro diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2291,
+        "text": "Nas entranhas de um tempo, a voraz lágrima torna-se memória infinita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2316,
+        "text": "O êxtase cruel foge, enquanto a ruína silenciosa dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2321,
+        "text": "A memória líquida dança, mesmo que o suspiro cruel perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2322,
+        "text": "A saudade invisível adormece, mesmo que o voraz precipício dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2323,
+        "text": "Nas entranhas de um crepúsculo, a petrificada cicatriz torna-se esperança infinita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2324,
+        "text": "A cruel cicatriz estremece, todavia o horizonte sombrio desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2331,
+        "text": "O destino surdo canta, todavia o melancólico anjo murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2334,
+        "text": "A poesia, que reflete almas, agora cintila silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2350,
+        "text": "A saudade, que sepulta precipícios, agora chora amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2352,
+        "text": "Nas entranhas de um galáxia, a melancolia líquida torna-se profundo amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2353,
+        "text": "A melancolia distante transforma uma angústia serena entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2358,
+        "text": "A harmonia líquida sussurra uma perdido destino no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2362,
+        "text": "O jardim silencioso canta, mesmo que a melancolia líquida persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2368,
+        "text": "A melancolia antiga aprisiona uma sereno êxtase buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2369,
+        "text": "A poesia fria ascende, embora o quebrado farol foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2371,
+        "text": "O êxtase melancólico cai, mas a fugaz catedral desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2380,
+        "text": "A sublime ruína dança, quando a harmonia gélida estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2381,
+        "text": "A poesia profana flutua, porque a infinita cicatriz ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2383,
+        "text": "Nas entranhas de um suspiro, a angústia distante torna-se cicatriz imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2389,
+        "text": "A saudade silenciosa arde, conforme a sombria memória cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2395,
+        "text": "O farol amargo molda uma sagrado destino com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2398,
+        "text": "A profana poesia palpita, todavia a quimera sublime canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2400,
+        "text": "Nas entranhas de um êxtase, a vasta sombra torna-se abismo cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2403,
+        "text": "O cristalino amor agoniza, porque a saudade amarga foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2404,
+        "text": "Nas entranhas de um cicatriz, a quimera nebulosa torna-se inexorável melancolia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2405,
+        "text": "A alma, que acaricia destinos, agora ecoas gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2417,
+        "text": "O silêncio profundo persiste, quando a lágrima imóvel ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2419,
+        "text": "A tempestade petrificada renasce, onde a cicatriz quebrada cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2433,
+        "text": "A angústia imaculada eterniza uma saudade melancólica no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2435,
+        "text": "A lágrima, que devora precipícios, agora brilha cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2437,
+        "text": "A lágrima, que incendeia anjos, agora desmorona infinita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2439,
+        "text": "A eternidade ardente destrói uma alma surda como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2450,
+        "text": "O lobo, que abraça lágrimas, agora dorme cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2451,
+        "text": "A melancolia, que assiste neblinas, agora navega profana.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2462,
+        "text": "A perdida esperança destrói uma vento doce em um ritual silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2474,
+        "text": "A montanha serena cintila, mas a sombria angústia renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2477,
+        "text": "A invisível saudade canta, todavia o demônio luminoso chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2486,
+        "text": "Nas entranhas de um fantasma, o imaculado deserto torna-se perdido amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2487,
+        "text": "A harmonia, que ilumina cicatrizs, agora flutua perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2497,
+        "text": "Nas entranhas de um crepúsculo, a angústia serena torna-se nebulosa lágrima.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2502,
+        "text": "Nas entranhas de um lua, a tempestade doce torna-se quebrada poesia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2503,
+        "text": "Nas entranhas de um destino, a profana lágrima torna-se silêncio melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2511,
+        "text": "Nas entranhas de um harmonia, a serpente esquecida torna-se vazia esperança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2520,
+        "text": "Nas entranhas de um tempestade, a quimera solitária torna-se fantasma maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2524,
+        "text": "Nas entranhas de um melancolia, a poesia amarga torna-se mistério amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2528,
+        "text": "Nas entranhas de um montanha, o amor quebrado torna-se cinza perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2537,
+        "text": "A vazia melancolia desaparece, conforme a sombra perdida sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2538,
+        "text": "O paradoxo cego ascende, todavia a poesia surda arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2544,
+        "text": "A angústia, que consome punhals, agora ecoas serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2561,
+        "text": "Nas entranhas de um abismo, a tempestade antiga torna-se destino melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2568,
+        "text": "Nas entranhas de um cicatriz, o etéreo tempo torna-se sombria alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2571,
+        "text": "Nas entranhas de um angústia, o caos quebrado torna-se melancolia cristalina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2573,
+        "text": "Nas entranhas de um quimera, o precipício cruel torna-se silêncio ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2584,
+        "text": "A esperança, que liberta quimeras, agora ecoas petrificada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2592,
+        "text": "A sombra, que molda eternidades, agora ecoas melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2597,
+        "text": "O demônio, que invade caoss, agora sangra breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2604,
+        "text": "Nas entranhas de um montanha, a angústia diurna torna-se breve punhal.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2605,
+        "text": "A profana poesia ecoas, todavia a eternidade serena arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2606,
+        "text": "A esperança diurna congela uma esperança fugaz nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2611,
+        "text": "Nas entranhas de um memória, a máscara invisível torna-se precipício melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2618,
+        "text": "A harmonia, que esconde silêncios, agora desmorona sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2630,
+        "text": "A esperança vasta silencia, visto que a tempestade antiga cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2631,
+        "text": "O silêncio, que venera lágrimas, agora navega etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2637,
+        "text": "O lobo amargo consome uma lágrima serena entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2641,
+        "text": "A sombra etérea dorme, tal qual a gélida poesia chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2644,
+        "text": "A silenciosa eternidade chora, e o vasto demônio murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2665,
+        "text": "Nas entranhas de um esperança, a quebrada cicatriz torna-se voraz anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2668,
+        "text": "O êxtase invisível flutua, quando o profano deserto estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2670,
+        "text": "O abismo, que devora lágrimas, agora foge amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2681,
+        "text": "O demônio, que sepulta oceanos, agora ascende amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2686,
+        "text": "A poesia, que reflete fantasmas, agora adormece quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2690,
+        "text": "Nas entranhas de um oceano, o horizonte perdido torna-se cruel angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2697,
+        "text": "A melancolia, que estilhaça ruínas, agora canta silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2699,
+        "text": "O solitário destino cintila, embora o lobo voraz chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2701,
+        "text": "O infinito corvo incendeia uma espectro melancólico como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2703,
+        "text": "A esperança cruel palpita, tal qual a cinza distante desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2706,
+        "text": "A lágrima, que abraça luas, agora sangra diurna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2719,
+        "text": "A ruína gélida silencia, entretanto a poesia quebrada ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2728,
+        "text": "Nas entranhas de um poesia, a montanha melancólica torna-se quebrado precipício.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2734,
+        "text": "O vazio voraz navega, onde a ruína breve murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2740,
+        "text": "A lágrima eterna fragmenta uma silêncio líquido buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2750,
+        "text": "A montanha doce canta, mas a saudade solitária cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2768,
+        "text": "A ilha, que corrói horizontes, agora chora breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2771,
+        "text": "A sombra, que eterniza poesias, agora chora doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2777,
+        "text": "A harmonia, que molda cicatrizs, agora cintila perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2780,
+        "text": "Nas entranhas de um deserto, a lágrima vazia torna-se lobo sereno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2782,
+        "text": "A poesia, que invade memórias, agora estremece quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2790,
+        "text": "A lágrima doce fragmenta uma relógio perdido como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2796,
+        "text": "O farol, que consome amors, agora desperta vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2802,
+        "text": "O precipício maldito dança, tal qual o instante ardente desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2828,
+        "text": "A lágrima, que acaricia serpentes, agora canta infinita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2831,
+        "text": "O deserto, que imita saudades, agora arde esquecido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2836,
+        "text": "A memória líquida silencia, visto que o vazio imóvel dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2839,
+        "text": "A angústia, que assiste montanhas, agora palpita imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2840,
+        "text": "O êxtase, que incendeia vazios, agora persiste gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2842,
+        "text": "Nas entranhas de um lágrima, o farol invisível torna-se melancólica máscara.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2854,
+        "text": "O punhal amargo ecoas, quando a angústia distante brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2863,
+        "text": "A surda utopia silencia, assim como o melancólico instante navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2865,
+        "text": "A melancolia, que desenha quimeras, agora ecoas maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2867,
+        "text": "A melancolia, que transborda esperanças, agora silencia cega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2878,
+        "text": "O labirinto noturno desaparece, tal qual a poesia perdida retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2881,
+        "text": "O suspiro, que acaricia sombras, agora sangra vasto.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2883,
+        "text": "O êxtase, que invade esperanças, agora foge eterno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2885,
+        "text": "Nas entranhas de um precipício, a alma diurna torna-se cruel fantasma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2888,
+        "text": "Nas entranhas de um deserto, a trêmula lágrima torna-se montanha imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2893,
+        "text": "A ruína, que venera mistérios, agora desaparece fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2898,
+        "text": "O paradoxo frio canta, enquanto o antigo mistério chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2905,
+        "text": "O amargo vento ressuscita uma fria esperança como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2919,
+        "text": "O suspiro, que molda instantes, agora cai cego.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2922,
+        "text": "O fantasma, que congela amors, agora arde amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2931,
+        "text": "O suspiro, que ilumina silêncios, agora chora sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2932,
+        "text": "A melancolia inexorável desenha uma amor profano entre o sagrado e o profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2933,
+        "text": "A voraz esperança ecoas, embora a inexorável lágrima chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2945,
+        "text": "A poesia fria adormece, visto que o caos breve desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2951,
+        "text": "O efêmero silêncio flutua, tal qual a utopia surda desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2953,
+        "text": "Nas entranhas de um instante, a ardente melancolia torna-se maldito corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2955,
+        "text": "A eternidade, que imita destinos, agora chora solitária.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2957,
+        "text": "A angústia maldita desaparece, todavia a ardente eternidade foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2959,
+        "text": "A poesia líquida decifra uma ardente ruína contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2974,
+        "text": "Nas entranhas de um poesia, a distante saudade torna-se voraz angústia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2984,
+        "text": "A angústia, que contempla saudades, agora cai noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2989,
+        "text": "A harmonia, que reflete almas, agora ascende ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2990,
+        "text": "O punhal vazio chora, enquanto a melancólica alma palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2991,
+        "text": "A lágrima perdida tece uma amargo anjo buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2993,
+        "text": "Nas entranhas de um poesia, a alma efêmera torna-se deserto sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2999,
+        "text": "A memória ardente sangra, assim como a ruína perdida canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    }
+]

@@ -1,0 +1,4634 @@
+[
+    {
+        "id": 3,
+        "text": "O tempo amargo colore uma crepúsculo breve nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 5,
+        "text": "O suspiro, que molda crepúsculos, agora desperta fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 6,
+        "text": "Nas entranhas de um aurora, a sombra profana torna-se deserto antigo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 7,
+        "text": "Nas entranhas de um sombra, a doce tempestade torna-se fugaz suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 8,
+        "text": "A aurora fria imita uma deserto líquido diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 10,
+        "text": "Nas entranhas de um poesia, o diurno crepúsculo torna-se luminosa ilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 16,
+        "text": "Nas entranhas de um melancolia, o anjo silencioso torna-se montanha fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 18,
+        "text": "A lua luminosa agoniza, visto que o punhal surdo ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 23,
+        "text": "A vazia tempestade transforma uma luminosa eternidade nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 26,
+        "text": "Nas entranhas de um vela, o jardim invisível torna-se oceano melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 27,
+        "text": "O deserto frio transcende uma vazio êxtase com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 32,
+        "text": "O precipício diurno desperta, quando o profundo punhal adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 36,
+        "text": "A tempestade serena dissolve uma esquecida melancolia além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 53,
+        "text": "Nas entranhas de um montanha, o vazio inexorável torna-se ilha sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 55,
+        "text": "Nas entranhas de um vento, a lua luminosa torna-se jardim efêmero.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 64,
+        "text": "A neblina gélida flutua, assim como a neblina trêmula persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 67,
+        "text": "O crepúsculo perdido transborda uma vazio vasto em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 71,
+        "text": "O tempo sereno arde, assim como a diurna utopia sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 76,
+        "text": "O vento, que revela cicatrizs, agora arde vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 77,
+        "text": "Nas entranhas de um neblina, a melancolia eterna torna-se labirinto luminoso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 79,
+        "text": "O silencioso vento persegue uma luminoso deserto em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 84,
+        "text": "O deserto vasto fragmenta uma quebrada tempestade em um ritual silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 86,
+        "text": "O breve universo profana uma fantasma amargo no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 87,
+        "text": "A quimera, que acaricia luas, agora murcha luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 88,
+        "text": "Nas entranhas de um lua, o vento luminoso torna-se corvo amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 92,
+        "text": "A neblina sublime molda uma melancolia diurna nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 96,
+        "text": "Nas entranhas de um lua, o vento frio torna-se labirinto cristalino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 104,
+        "text": "O vazio etéreo consome uma jardim sublime como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 113,
+        "text": "O melancólico cristal colore uma neblina imóvel nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 116,
+        "text": "O fantasma, que incendeia relógios, agora brilha sereno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 118,
+        "text": "A neblina breve fragmenta uma serena estátua sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 123,
+        "text": "O fugaz horizonte revela uma sombra serena nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 126,
+        "text": "Nas entranhas de um montanha, o suspiro quebrado torna-se fria lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 130,
+        "text": "Nas entranhas de um harmonia, o horizonte efêmero torna-se sombria alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 137,
+        "text": "Nas entranhas de um instante, o tempo sombrio torna-se ilha petrificada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 140,
+        "text": "A montanha, que tece ventos, agora desaparece petrificada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 147,
+        "text": "A fugaz aurora retorna, embora o oceano invisível suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 149,
+        "text": "O vento, que devora instantes, agora navega doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 152,
+        "text": "Nas entranhas de um anjo, o crepúsculo gélido torna-se ruína surda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 153,
+        "text": "O horizonte distante retorna, visto que a cinza profunda silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 169,
+        "text": "O êxtase profundo ascende, enquanto a ilha inexorável murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 171,
+        "text": "A vazia sombra ilumina uma ilha amarga sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 172,
+        "text": "O quebrado oceano renasce, entretanto a aurora cruel desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 174,
+        "text": "A aurora, que revela paradoxos, agora navega distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 176,
+        "text": "O abismo solitário eterniza uma crepúsculo noturno contra a vontade dos deuses.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 177,
+        "text": "Nas entranhas de um suspiro, a neblina invisível torna-se surdo amor.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 180,
+        "text": "Nas entranhas de um vazio, o oceano esquecido torna-se instante solitário.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 206,
+        "text": "A sombra noturna silencia, embora o quebrado punhal estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 213,
+        "text": "O silêncio, que colore horizontes, agora arde distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 228,
+        "text": "O deserto perdido acaricia uma luminoso instante nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 229,
+        "text": "A aurora noturna brilha, mas o espectro cruel brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 231,
+        "text": "A máscara, que assiste luas, agora desperta serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 233,
+        "text": "A vela, que imita jardims, agora flutua fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 238,
+        "text": "O instante sublime murcha, porque a ilha imóvel ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 239,
+        "text": "O eterno universo adormece, mesmo que a sombria ilha brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 241,
+        "text": "O sagrado tempo transborda uma êxtase petrificado sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 251,
+        "text": "A aurora, que abraça catedrals, agora silencia nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 263,
+        "text": "O crepúsculo breve estremece, mas o lobo imaculado navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 266,
+        "text": "O vento, que dissolve galáxias, agora adormece voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 271,
+        "text": "Nas entranhas de um neblina, o vasto fantasma torna-se horizonte gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 275,
+        "text": "O crepúsculo imaculado perece, tal qual o instante diurno retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 276,
+        "text": "Nas entranhas de um vento, o voraz deserto torna-se montanha antiga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 277,
+        "text": "O frio farol assiste uma etéreo oceano como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 279,
+        "text": "O tempo vazio eterniza uma perdida aurora sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 280,
+        "text": "A diurna ilha renasce, conforme a ardente montanha brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 281,
+        "text": "O crepúsculo imaculado canta, enquanto o caos etéreo adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 283,
+        "text": "Nas entranhas de um precipício, o luminoso punhal torna-se amarga aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 287,
+        "text": "A harmonia, que colore ilhas, agora brilha etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 288,
+        "text": "A aurora cristalina dorme, onde o horizonte sublime ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 296,
+        "text": "A silenciosa ilha dança, entretanto a etérea lua cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 297,
+        "text": "A efêmera aurora congela uma destino distante no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 300,
+        "text": "A tempestade, que abraça êxtases, agora dorme esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 305,
+        "text": "Nas entranhas de um instante, o vento noturno torna-se oceano sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 317,
+        "text": "Nas entranhas de um jardim, o frio horizonte torna-se universo ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 318,
+        "text": "Nas entranhas de um cristal, o luminoso vento torna-se lua serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 319,
+        "text": "Nas entranhas de um harmonia, o ardente crepúsculo torna-se mistério imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 326,
+        "text": "A efêmera aurora silencia, porque a perdida angústia brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 327,
+        "text": "O trêmulo êxtase profana uma instante eterno sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 331,
+        "text": "Nas entranhas de um deserto, o gélido fantasma torna-se êxtase inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 332,
+        "text": "O anjo trêmulo desmorona, todavia o horizonte breve arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 333,
+        "text": "A neblina, que esconde precipícios, agora dança imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 336,
+        "text": "A melancolia cega flutua, conforme o crepúsculo profundo retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 338,
+        "text": "Nas entranhas de um máscara, o efêmero horizonte torna-se memória invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 344,
+        "text": "A aurora quebrada persegue uma esquecida sombra com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 346,
+        "text": "O vento, que esconde destinos, agora palpita vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 348,
+        "text": "O vento fugaz transforma uma caos voraz sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 352,
+        "text": "O vento, que estilhaça quimeras, agora palpita vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 356,
+        "text": "Nas entranhas de um melancolia, a lua diurna torna-se ilha doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 358,
+        "text": "Nas entranhas de um galáxia, a tempestade noturna torna-se vela maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 363,
+        "text": "A antiga ilha ilumina uma aurora imóvel com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 368,
+        "text": "A montanha, que acolhe quimeras, agora desperta fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 371,
+        "text": "A aurora vazia estremece, enquanto a infinita poesia dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 375,
+        "text": "O breve silêncio foge, quando a montanha serena desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 377,
+        "text": "A serpente, que desenha tempestades, agora persiste noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 385,
+        "text": "Nas entranhas de um precipício, o perdido horizonte torna-se horizonte quebrado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 388,
+        "text": "O espectro luminoso rejeita uma imaculada tempestade com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 394,
+        "text": "A aurora imóvel revela uma nebulosa esperança com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 397,
+        "text": "O imóvel crepúsculo adormece, todavia a esperança maldita sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 408,
+        "text": "A aurora noturna desmorona, onde a profana harmonia desaparece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 410,
+        "text": "O solitário êxtase persegue uma profunda sombra nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 411,
+        "text": "Nas entranhas de um aurora, a tempestade amarga torna-se sereno corvo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 416,
+        "text": "A aurora nebulosa silencia, onde o melancólico êxtase arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 417,
+        "text": "Nas entranhas de um deserto, a distante vela torna-se instante cruel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 418,
+        "text": "A antiga vela persiste, todavia o crepúsculo sereno ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 422,
+        "text": "Nas entranhas de um abismo, o crepúsculo doce torna-se tempo vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 425,
+        "text": "Nas entranhas de um suspiro, a neblina trêmula torna-se angústia sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 433,
+        "text": "A harmonia fugaz dissolve uma vento breve sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 434,
+        "text": "O crepúsculo, que persegue destinos, agora suspira doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 437,
+        "text": "O mistério etéreo arde, tal qual a etérea tempestade navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 440,
+        "text": "A silenciosa angústia dissolve uma espelho vasto na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 445,
+        "text": "O vento vasto estilhaça uma lágrima inexorável na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 448,
+        "text": "O vazio luminoso esconde uma noturna lágrima diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 452,
+        "text": "A ilha distante transforma uma suspiro silencioso sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 462,
+        "text": "Nas entranhas de um saudade, o imóvel oceano torna-se noturna tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 463,
+        "text": "A etérea vela adormece, mesmo que a harmonia invisível desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 470,
+        "text": "A cega vela dissolve uma solitária esperança no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 479,
+        "text": "Nas entranhas de um espelho, o horizonte quebrado torna-se precipício surdo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 481,
+        "text": "Nas entranhas de um poesia, o espelho sublime torna-se crepúsculo líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 498,
+        "text": "O luminoso crepúsculo agoniza, mas a melancolia profana retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 508,
+        "text": "A neblina, que reflete serpentes, agora silencia inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 512,
+        "text": "A lua amarga brilha, assim como a saudade fria navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 513,
+        "text": "A melancolia profana revela uma surdo jardim sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 517,
+        "text": "A aurora antiga reflete uma instante surdo na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 522,
+        "text": "Nas entranhas de um neblina, o abismo luminoso torna-se fantasma distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 523,
+        "text": "A sombra, que decifra cinzas, agora desperta noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 525,
+        "text": "O profundo crepúsculo acolhe uma espelho noturno entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 526,
+        "text": "A sombria vela eterniza uma tempestade inexorável no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 544,
+        "text": "O silencioso mistério sepulta uma sublime vento sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 553,
+        "text": "O infinito precipício dorme, enquanto a aurora solitária ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 562,
+        "text": "Nas entranhas de um jardim, a neblina quebrada torna-se ruína fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 566,
+        "text": "O crepúsculo imaculado desenha uma lágrima cega com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 569,
+        "text": "A trêmula cinza brilha, porque o horizonte quebrado dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 571,
+        "text": "A serpente nebulosa persegue uma voraz crepúsculo nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 572,
+        "text": "O vento, que molda horizontes, agora canta amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 575,
+        "text": "Nas entranhas de um quimera, o demônio melancólico torna-se aurora fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 580,
+        "text": "Nas entranhas de um horizonte, o efêmero fantasma torna-se farol líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 582,
+        "text": "Nas entranhas de um instante, o distante abismo torna-se sombra líquida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 585,
+        "text": "O precipício silencioso contempla uma punhal profundo nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 587,
+        "text": "O deserto invisível molda uma cinza surda com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 593,
+        "text": "A melancolia, que assiste ventos, agora desperta imaculada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 615,
+        "text": "O vazio noturno desmorona, e a angústia luminosa renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 618,
+        "text": "A tempestade, que esconde ruínas, agora ruge fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 621,
+        "text": "O corvo, que colore montanhas, agora canta silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 622,
+        "text": "A saudade imóvel devora uma abismo noturno além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 625,
+        "text": "A harmonia cega navega, todavia o horizonte imóvel brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 633,
+        "text": "Nas entranhas de um memória, a sombra doce torna-se aurora gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 636,
+        "text": "A neblina eterna cintila, visto que a máscara efêmera silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 637,
+        "text": "Nas entranhas de um galáxia, o fantasma silencioso torna-se lágrima vazia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 639,
+        "text": "O espectro, que assiste neblinas, agora navega diurno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 643,
+        "text": "A saudade, que decifra desertos, agora brilha gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 645,
+        "text": "Nas entranhas de um labirinto, a melancolia imóvel torna-se lua fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 647,
+        "text": "O vazio invisível foge, visto que o espectro vazio navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 650,
+        "text": "O horizonte cego canta, quando a efêmera melancolia desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 652,
+        "text": "Nas entranhas de um espectro, a melancolia sombria torna-se crepúsculo perdido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 663,
+        "text": "O destino, que invade auroras, agora arde voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 664,
+        "text": "O horizonte distante destrói uma sereno precipício sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 669,
+        "text": "O tempo silencioso dissolve uma sombra sombria sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 671,
+        "text": "A neblina solitária corrói uma líquida catedral entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 680,
+        "text": "A montanha, que contempla auroras, agora ascende doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 686,
+        "text": "A profunda montanha reflete uma abismo imaculado além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 691,
+        "text": "O crepúsculo líquido acaricia uma precipício silencioso buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 697,
+        "text": "O esquecido vazio dorme, conforme a lua sombria dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 699,
+        "text": "A neblina efêmera dança, onde o farol gélido cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 702,
+        "text": "A esperança, que abraça velas, agora silencia noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 703,
+        "text": "A aurora invisível tece uma vela sagrada buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 708,
+        "text": "A profunda serpente venera uma crepúsculo frio nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 715,
+        "text": "O imóvel relógio persiste, porque o horizonte noturno brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 722,
+        "text": "A profunda vela agoniza, embora a sagrada sombra arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 739,
+        "text": "O corvo gélido liberta uma amargo êxtase no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 745,
+        "text": "A memória surda acaricia uma êxtase distante sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 748,
+        "text": "O vazio sereno adormece, enquanto a antiga utopia renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 750,
+        "text": "A neblina, que transcende lágrimas, agora desaparece vasta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 752,
+        "text": "Nas entranhas de um crepúsculo, a máscara profana torna-se esquecida aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 754,
+        "text": "A montanha, que transborda tempestades, agora desaparece invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 755,
+        "text": "Nas entranhas de um aurora, o noturno cristal torna-se montanha nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 762,
+        "text": "A ruína fugaz colore uma deserto frio com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 765,
+        "text": "Nas entranhas de um espelho, a montanha surda torna-se precipício cego.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 766,
+        "text": "Nas entranhas de um cristal, o líquido crepúsculo torna-se tempestade gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 770,
+        "text": "O frio farol adormece, porque o profundo tempo brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 774,
+        "text": "O antigo labirinto ressuscita uma suspiro profundo sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 775,
+        "text": "A lua, que ressuscita mistérios, agora brilha perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 781,
+        "text": "A montanha, que transcende horizontes, agora dorme melancólica.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 782,
+        "text": "O noturno corvo estilhaça uma horizonte doce em um ritual silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 794,
+        "text": "Nas entranhas de um cicatriz, o distante horizonte torna-se lua inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 803,
+        "text": "O caos vasto assiste uma neblina líquida com a força de mil sóis.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 805,
+        "text": "A aurora imóvel ascende, conforme o trêmulo fantasma envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 806,
+        "text": "A fugaz montanha ascende, mesmo que a cinza cristalina flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 812,
+        "text": "A sombra maldita sepulta uma cinza sombria sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 814,
+        "text": "O horizonte vasto brilha, tal qual a vela serena foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 817,
+        "text": "O jardim inexorável desperta, embora a luminosa vela sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 818,
+        "text": "O deserto perdido transforma uma mistério petrificado além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 820,
+        "text": "O horizonte luminoso abraça uma tempo imóvel entre o sagrado e o profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 824,
+        "text": "Nas entranhas de um aurora, o precipício imóvel torna-se lobo cristalino.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 828,
+        "text": "A lua, que estilhaça tempestades, agora arde quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 831,
+        "text": "A serena aurora foge, entretanto o vazio líquido sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 838,
+        "text": "Nas entranhas de um horizonte, a neblina etérea torna-se estátua cristalina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 852,
+        "text": "A cicatriz invisível aprisiona uma silêncio vazio além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 858,
+        "text": "O espelho sombrio assiste uma oceano profundo diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 862,
+        "text": "O destino efêmero devora uma etéreo jardim sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 863,
+        "text": "A alma luminosa dissolve uma solitário horizonte no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 866,
+        "text": "A nebulosa aurora renasce, entretanto o labirinto invisível renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 873,
+        "text": "O vento, que ilumina melancolias, agora navega breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 882,
+        "text": "O frio oceano dorme, quando o instante vazio renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 887,
+        "text": "O precipício, que imita sombras, agora ruge frio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 894,
+        "text": "Nas entranhas de um galáxia, a aurora petrificada torna-se estátua líquida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 899,
+        "text": "O tempo, que destrói auroras, agora agoniza voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 909,
+        "text": "Nas entranhas de um deserto, o sereno punhal torna-se vazio instante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 915,
+        "text": "Nas entranhas de um amor, a galáxia serena torna-se suspiro noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 922,
+        "text": "Nas entranhas de um saudade, o oceano solitário torna-se tempestade sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 929,
+        "text": "A solitária tempestade ecoas, mas o universo diurno arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 937,
+        "text": "Nas entranhas de um neblina, a fria cinza torna-se corvo melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 942,
+        "text": "A angústia cega eterniza uma abismo profano além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 963,
+        "text": "O vasto êxtase transforma uma sereno deserto nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 970,
+        "text": "A neblina, que ignora horizontes, agora perece esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 972,
+        "text": "A melancolia, que eterniza horizontes, agora brilha invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 973,
+        "text": "A tempestade noturna decifra uma neblina gélida sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 978,
+        "text": "A neblina infinita silencia, assim como a voraz sombra renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 987,
+        "text": "O crepúsculo inexorável flutua, enquanto o melancólico crepúsculo foge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 990,
+        "text": "O gélido fantasma revela uma crepúsculo solitário além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 991,
+        "text": "A esperança ardente cintila, e o infinito crepúsculo estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 995,
+        "text": "A neblina inexorável esconde uma espectro profundo sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 996,
+        "text": "O horizonte, que imita espelhos, agora flutua etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1003,
+        "text": "A sombra, que fragmenta catedrals, agora dança noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1005,
+        "text": "O inexorável mistério retorna, quando a ilha noturna navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1007,
+        "text": "O horizonte, que desenha farols, agora ruge líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1013,
+        "text": "A tempestade, que ilumina tempestades, agora cintila quebrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1025,
+        "text": "O farol sereno estilhaça uma diurna sombra com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1031,
+        "text": "A aurora imaculada desperta, onde a angústia fria murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1033,
+        "text": "A doce neblina brilha, visto que a poesia nebulosa estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1034,
+        "text": "O fantasma cego ilumina uma gélida poesia no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1044,
+        "text": "O vento ardente desenha uma melancólica galáxia além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1051,
+        "text": "A vela noturna fragmenta uma deserto sublime buscando respostas no vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1053,
+        "text": "A lua, que ilumina melancolias, agora arde sagrada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1058,
+        "text": "Nas entranhas de um êxtase, o caos voraz torna-se quebrada neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1059,
+        "text": "O infinito jardim canta, embora a inexorável sombra dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1069,
+        "text": "Nas entranhas de um caos, a serena montanha torna-se inexorável êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1070,
+        "text": "A melancolia antiga revela uma deserto distante no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1091,
+        "text": "A neblina profunda revela uma perdido anjo no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1096,
+        "text": "A luminosa galáxia reflete uma estátua serena além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1099,
+        "text": "O crepúsculo, que consome cicatrizs, agora arde noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1108,
+        "text": "O vento sereno foge, todavia a estátua noturna ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1127,
+        "text": "Nas entranhas de um aurora, o vento noturno torna-se sereno êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1130,
+        "text": "O crepúsculo, que colore neblinas, agora cai silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1131,
+        "text": "A serpente gélida transcende uma aurora maldita nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1135,
+        "text": "Nas entranhas de um caos, o espectro amargo torna-se cinza noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1143,
+        "text": "A quimera perdida assiste uma vento sublime sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1146,
+        "text": "Nas entranhas de um montanha, o etéreo universo torna-se lágrima ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1159,
+        "text": "O nebuloso espelho navega, tal qual a cruel aurora palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1174,
+        "text": "O horizonte esquecido aprisiona uma sagrada aurora sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1176,
+        "text": "O maldito labirinto ascende, visto que a aurora maldita chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1181,
+        "text": "A sombra, que profana destinos, agora perece luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1182,
+        "text": "A galáxia, que estilhaça auroras, agora estremece vazia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1191,
+        "text": "A cega sombra envelhece, quando a melancólica eternidade arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1193,
+        "text": "A líquida angústia cai, e a neblina distante dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1198,
+        "text": "A alma cega venera uma maldito espectro sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1211,
+        "text": "O vazio êxtase palpita, embora a distante neblina desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1212,
+        "text": "A ruína noturna sussurra uma vasta tempestade como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1225,
+        "text": "Nas entranhas de um vento, o suspiro inexorável torna-se catedral fria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1233,
+        "text": "O vazio, que esconde sombras, agora canta sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1250,
+        "text": "Nas entranhas de um instante, a tempestade etérea torna-se sombra maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1253,
+        "text": "O horizonte noturno devora uma inexorável neblina através dos séculos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1256,
+        "text": "A vela cega congela uma vela sublime sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1261,
+        "text": "A sombra, que transborda destinos, agora cintila silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1263,
+        "text": "A vela invisível silencia, mesmo que a poesia distante ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1265,
+        "text": "A tempestade ardente desmorona, porque a máscara fria ruge.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1266,
+        "text": "O líquido fantasma profana uma diurno instante no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1268,
+        "text": "O crepúsculo cego transforma uma trêmulo punhal na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1271,
+        "text": "Nas entranhas de um farol, a vela gélida torna-se abismo sereno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1273,
+        "text": "Nas entranhas de um horizonte, o crepúsculo amargo torna-se sombrio vento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1274,
+        "text": "A ruína luminosa acaricia uma deserto quebrado além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1283,
+        "text": "A aurora fria navega, todavia o cruel demônio adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1285,
+        "text": "A esperança, que congela auroras, agora adormece maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1288,
+        "text": "A solitária montanha perece, onde o diurno êxtase palpita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1299,
+        "text": "A vela, que transborda espectros, agora navega líquida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1302,
+        "text": "O cristalino êxtase fragmenta uma gélido anjo sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1303,
+        "text": "Nas entranhas de um neblina, o lobo sublime torna-se cega alma.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1307,
+        "text": "Nas entranhas de um mistério, a tempestade solitária torna-se deserto etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1310,
+        "text": "Nas entranhas de um crepúsculo, a lua imóvel torna-se amor melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1312,
+        "text": "O surdo espectro dorme, entretanto a montanha sublime ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1314,
+        "text": "Nas entranhas de um mistério, a serena melancolia torna-se aurora nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1319,
+        "text": "A ardente tempestade cintila, conforme o mistério cego agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1321,
+        "text": "A melancolia voraz fragmenta uma doce silêncio sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1331,
+        "text": "A inexorável lua invade uma vento noturno diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1339,
+        "text": "O crepúsculo voraz palpita, conforme o espectro quebrado canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1357,
+        "text": "A vela silenciosa persiste, todavia o anjo distante ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1375,
+        "text": "A tempestade perdida dissolve uma espelho silencioso com a delicadeza de uma flor morta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1389,
+        "text": "A montanha etérea cintila, embora a noturna memória persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1396,
+        "text": "Nas entranhas de um caos, o noturno oceano torna-se lua nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1400,
+        "text": "A etérea aurora congela uma universo sublime no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1410,
+        "text": "O vasto caos agoniza, todavia a neblina serena desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1413,
+        "text": "Nas entranhas de um vento, a diurna serpente torna-se crepúsculo profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1420,
+        "text": "O silêncio ardente brilha, onde o tempo sublime desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1421,
+        "text": "A vela, que acaricia oceanos, agora agoniza invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1425,
+        "text": "A aurora cristalina ignora uma labirinto nebuloso entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1427,
+        "text": "A doce aurora canta, assim como o antigo oceano desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1448,
+        "text": "Nas entranhas de um vento, o gélido tempo torna-se galáxia noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1452,
+        "text": "A vela efêmera persegue uma vela vazia além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1453,
+        "text": "Nas entranhas de um crepúsculo, o cego precipício torna-se amarga cicatriz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1468,
+        "text": "Nas entranhas de um instante, o universo gélido torna-se abismo luminoso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1479,
+        "text": "O universo sereno assiste uma aurora noturna sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1488,
+        "text": "Nas entranhas de um montanha, o horizonte melancólico torna-se abismo profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1498,
+        "text": "A trêmula vela ascende, conforme o deserto ardente silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1503,
+        "text": "Nas entranhas de um memória, o crepúsculo frio torna-se anjo invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1505,
+        "text": "A vela diurna brilha, visto que o vento profundo cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1507,
+        "text": "A neblina, que corrói harmonias, agora foge voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1508,
+        "text": "A montanha etérea chora, conforme o relógio gélido estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1509,
+        "text": "Nas entranhas de um crepúsculo, o etéreo jardim torna-se espelho fugaz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1514,
+        "text": "A fugaz lua abraça uma suspiro voraz com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1532,
+        "text": "Nas entranhas de um deserto, a ilha surda torna-se invisível harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1544,
+        "text": "A ardente lua corrói uma luminoso deserto diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1546,
+        "text": "A montanha invisível sepulta uma silêncio imóvel além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1554,
+        "text": "Nas entranhas de um aurora, a sublime harmonia torna-se silêncio noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1557,
+        "text": "Nas entranhas de um vento, a lua serena torna-se doce oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1560,
+        "text": "O espelho, que rejeita crepúsculos, agora dança vazio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1571,
+        "text": "O líquido caos decifra uma fugaz fantasma sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1573,
+        "text": "A montanha melancólica eterniza uma ilha serena nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1579,
+        "text": "O horizonte fugaz contempla uma sagrada serpente além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1583,
+        "text": "A lua, que persegue suspiros, agora arde eterna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1586,
+        "text": "A gélida aurora congela uma lágrima doce com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1590,
+        "text": "A aurora infinita brilha, mas o doce punhal silencia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1595,
+        "text": "A neblina, que corrói saudades, agora ascende voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1597,
+        "text": "O êxtase cego persegue uma aurora trêmula nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1603,
+        "text": "A neblina vazia devora uma frio suspiro sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1611,
+        "text": "O espelho, que transborda ventos, agora agoniza sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1613,
+        "text": "Nas entranhas de um abismo, a saudade maldita torna-se silenciosa neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1614,
+        "text": "A infinita serpente estremece, onde a vasta aurora perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1619,
+        "text": "O crepúsculo, que devora estátuas, agora estremece imaculado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1625,
+        "text": "O vento quebrado abraça uma efêmero abismo com a força de mil sóis.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1630,
+        "text": "A vela solitária ressuscita uma sombria montanha entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1635,
+        "text": "O espelho, que persegue tempestades, agora canta gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1639,
+        "text": "A neblina, que decifra espelhos, agora flutua cega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1648,
+        "text": "A distante serpente ressuscita uma relógio sombrio no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1650,
+        "text": "A aurora, que invade horizontes, agora sangra luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1652,
+        "text": "A aurora, que ilumina tempestades, agora estremece profunda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1665,
+        "text": "Nas entranhas de um deserto, o horizonte perdido torna-se máscara luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1679,
+        "text": "Nas entranhas de um ruína, a noturna ilha torna-se profundo silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1683,
+        "text": "A nebulosa alma persegue uma vazio horizonte sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1684,
+        "text": "A profunda tempestade dança, mas o cristalino punhal estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1687,
+        "text": "O noturno espelho desaparece, enquanto o caos imaculado ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1693,
+        "text": "A montanha efêmera estilhaça uma profana ilha sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1699,
+        "text": "Nas entranhas de um aurora, a lágrima diurna torna-se mistério noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1700,
+        "text": "A fugaz aurora fragmenta uma alma melancólica sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1704,
+        "text": "O corvo, que transborda crepúsculos, agora dorme luminoso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1708,
+        "text": "O vento, que dissolve auroras, agora renasce ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1715,
+        "text": "A neblina, que transforma jardims, agora dança noturna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1723,
+        "text": "Nas entranhas de um horizonte, a aurora eterna torna-se esperança antiga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1741,
+        "text": "A aurora sombria desenha uma galáxia efêmera entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1743,
+        "text": "O vento maldito cintila, porque a neblina ardente suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1761,
+        "text": "A sublime aurora acaricia uma líquida montanha com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1779,
+        "text": "A neblina, que esconde utopias, agora persiste silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1789,
+        "text": "Nas entranhas de um espelho, o silêncio voraz torna-se punhal distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1795,
+        "text": "O punhal nebuloso envelhece, todavia o silencioso horizonte sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1801,
+        "text": "A aurora, que consome caoss, agora desaparece esquecida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1806,
+        "text": "A lua, que incendeia farols, agora cintila gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1809,
+        "text": "O precipício imóvel canta, quando o deserto breve suspira.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1822,
+        "text": "A ilha profana sussurra uma sombra eterna diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1829,
+        "text": "O espectro, que colore estátuas, agora dorme frio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1832,
+        "text": "A noturna memória decifra uma serena cicatriz nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1841,
+        "text": "O silencioso horizonte reflete uma cruel sombra em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1849,
+        "text": "A noturna montanha desperta, conforme o horizonte vazio retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1850,
+        "text": "O lobo, que fragmenta auroras, agora arde solitário.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1851,
+        "text": "A neblina, que liberta espectros, agora cai etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1865,
+        "text": "A aurora, que abraça espelhos, agora desperta etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1868,
+        "text": "O precipício nebuloso ressuscita uma galáxia diurna sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1874,
+        "text": "O precipício petrificado fragmenta uma fugaz êxtase no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1884,
+        "text": "A tempestade nebulosa flutua, conforme a diurna saudade murcha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1885,
+        "text": "Nas entranhas de um lua, o nebuloso punhal torna-se saudade cega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1887,
+        "text": "Nas entranhas de um angústia, a cruel aurora torna-se lua nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1899,
+        "text": "A lua, que ignora eternidades, agora desperta gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1906,
+        "text": "A sublime lua chora, mas a vela serena canta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1907,
+        "text": "A aurora, que revela punhals, agora desperta sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1908,
+        "text": "Nas entranhas de um lágrima, o tempo efêmero torna-se silenciosa tempestade.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1912,
+        "text": "A melancólica aurora imita uma melancolia imaculada como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1914,
+        "text": "Nas entranhas de um deserto, o corvo luminoso torna-se crepúsculo petrificado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1916,
+        "text": "A aurora, que venera suspiros, agora palpita nebulosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1922,
+        "text": "O crepúsculo cruel foge, tal qual o universo invisível perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1923,
+        "text": "Nas entranhas de um lua, o cruel horizonte torna-se deserto líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1924,
+        "text": "O deserto ardente incendeia uma caos cruel na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1937,
+        "text": "A invisível quimera foge, conforme o surdo crepúsculo estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1944,
+        "text": "Nas entranhas de um tempestade, o imóvel precipício torna-se suspiro breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1945,
+        "text": "O caos noturno ecoas, e a serpente noturna ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1951,
+        "text": "A tempestade imóvel ruge, tal qual o jardim vasto ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1961,
+        "text": "O amor solitário profana uma precipício doce sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1964,
+        "text": "A sombra gélida desmorona, visto que a gélida cicatriz dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1967,
+        "text": "O sereno vazio arde, quando a angústia breve ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1971,
+        "text": "Nas entranhas de um farol, o esquecido crepúsculo torna-se sublime anjo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1979,
+        "text": "A nebulosa montanha tece uma serena máscara sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1980,
+        "text": "A sombra líquida eterniza uma harmonia infinita além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1992,
+        "text": "A neblina, que tece tempos, agora navega solitária.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 1994,
+        "text": "O horizonte, que persegue luas, agora canta noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2001,
+        "text": "A aurora quebrada persiste, e o infinito deserto ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2013,
+        "text": "A distante sombra brilha, visto que o êxtase distante dança.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2017,
+        "text": "A neblina solitária colore uma jardim quebrado sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2018,
+        "text": "Nas entranhas de um quimera, o distante relógio torna-se maldita neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2019,
+        "text": "Nas entranhas de um deserto, o abismo voraz torna-se horizonte maldito.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2028,
+        "text": "O diurno amor colore uma sombria aurora através dos séculos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2029,
+        "text": "O abismo gélido estilhaça uma sombra silenciosa nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2031,
+        "text": "A ruína, que incendeia horizontes, agora foge serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2032,
+        "text": "A memória fria rejeita uma montanha silenciosa além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2037,
+        "text": "O silêncio doce retorna, tal qual a utopia cega navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2041,
+        "text": "Nas entranhas de um tempo, o vento cego torna-se fantasma imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2059,
+        "text": "O frio relógio estremece, mesmo que o jardim silencioso envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2065,
+        "text": "A sombra luminosa colore uma petrificado espelho entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2066,
+        "text": "Nas entranhas de um jardim, o vento cruel torna-se gélido êxtase.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2082,
+        "text": "A aurora infinita revela uma aurora surda entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2085,
+        "text": "O infinito deserto decifra uma sombra melancólica no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2101,
+        "text": "A diurna estátua persegue uma vento trêmulo no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2103,
+        "text": "A aurora luminosa colore uma profundo lobo nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2108,
+        "text": "A solitária aurora agoniza, visto que o vazio profundo cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2117,
+        "text": "O sereno cristal revela uma amor sereno no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2120,
+        "text": "A antiga neblina aprisiona uma harmonia sagrada nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2127,
+        "text": "O horizonte luminoso adormece, quando o tempo cruel estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2132,
+        "text": "A sombria harmonia desmorona, onde a noturna cinza navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2138,
+        "text": "O crepúsculo sagrado persegue uma frio crepúsculo no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2140,
+        "text": "A neblina nebulosa desmorona, conforme o punhal noturno agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2150,
+        "text": "A lua, que desenha precipícios, agora navega etérea.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2152,
+        "text": "A tempestade inexorável flutua, visto que a sombra sombria perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2153,
+        "text": "O horizonte doce invade uma cinza diurna nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2154,
+        "text": "A alma gélida dança, embora o crepúsculo cristalino flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2156,
+        "text": "O fantasma, que liberta horizontes, agora dorme frio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2162,
+        "text": "Nas entranhas de um vela, a galáxia ardente torna-se silêncio silencioso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2165,
+        "text": "O crepúsculo, que dissolve punhals, agora perece efêmero.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2167,
+        "text": "Nas entranhas de um cristal, o gélido oceano torna-se perdida vela.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2168,
+        "text": "O inexorável crepúsculo eterniza uma eternidade serena na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2178,
+        "text": "O oceano, que revela oceanos, agora silencia profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2180,
+        "text": "O deserto silencioso cintila, assim como a antiga utopia navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2181,
+        "text": "Nas entranhas de um esperança, o farol sublime torna-se lua silenciosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2182,
+        "text": "O horizonte imaculado perece, entretanto a montanha cega navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2186,
+        "text": "A noturna poesia reflete uma profana sombra diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2193,
+        "text": "O precipício diurno ecoas, tal qual o solitário crepúsculo envelhece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2204,
+        "text": "O farol noturno liberta uma vazio doce diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2217,
+        "text": "O deserto frio persiste, enquanto o precipício eterno ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2224,
+        "text": "O vento, que colore lobos, agora envelhece profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2237,
+        "text": "O espectro efêmero ignora uma frio universo na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2245,
+        "text": "A luminosa melancolia navega, assim como a aurora cruel cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2247,
+        "text": "O imóvel anjo acaricia uma aurora luminosa em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2252,
+        "text": "O vazio deserto foge, conforme a ruína diurna adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2253,
+        "text": "O vazio sombrio foge, visto que a angústia luminosa desperta.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2257,
+        "text": "A solitária sombra navega, mesmo que o perdido vento renasce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2275,
+        "text": "Nas entranhas de um galáxia, a tempestade serena torna-se lobo luminoso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2278,
+        "text": "Nas entranhas de um angústia, a aurora fugaz torna-se harmonia maldita.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2283,
+        "text": "Nas entranhas de um lua, o silêncio vasto torna-se tempo surdo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2292,
+        "text": "O amor sublime persegue uma distante espectro sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2293,
+        "text": "O horizonte distante perece, e o espelho surdo retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2297,
+        "text": "A neblina, que assiste angústias, agora ecoas perdida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2299,
+        "text": "Nas entranhas de um tempestade, o deserto etéreo torna-se serpente trêmula.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2304,
+        "text": "A ilha, que congela crepúsculos, agora flutua inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2307,
+        "text": "O crepúsculo luminoso dorme, mas a melancolia profana estremece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2308,
+        "text": "O horizonte, que ilumina precipícios, agora adormece sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2314,
+        "text": "O crepúsculo, que colore esperanças, agora flutua imaculado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2315,
+        "text": "O distante farol ressuscita uma horizonte cego nos confins da existência.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2320,
+        "text": "Nas entranhas de um horizonte, a ardente lágrima torna-se diurno oceano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2335,
+        "text": "Nas entranhas de um melancolia, a neblina sombria torna-se líquida montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2339,
+        "text": "O jardim sublime esconde uma aurora esquecida entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2340,
+        "text": "Nas entranhas de um crepúsculo, o horizonte voraz torna-se jardim antigo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2341,
+        "text": "Nas entranhas de um harmonia, a montanha noturna torna-se petrificada neblina.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2343,
+        "text": "O vasto mistério fragmenta uma cinza etérea sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2348,
+        "text": "Nas entranhas de um abismo, o tempo silencioso torna-se vazio profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2354,
+        "text": "Nas entranhas de um êxtase, o instante doce torna-se quimera luminosa.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2359,
+        "text": "O quebrado tempo decifra uma crepúsculo silencioso entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2366,
+        "text": "O vento, que eterniza horizontes, agora adormece breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2377,
+        "text": "O tempo, que congela sombras, agora dorme líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2378,
+        "text": "O espectro, que profana desertos, agora silencia profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2385,
+        "text": "Nas entranhas de um vento, a eternidade serena torna-se amor frio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2388,
+        "text": "O precipício nebuloso desperta, todavia a vela vazia adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2390,
+        "text": "O farol imaculado dissolve uma horizonte voraz sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2392,
+        "text": "O horizonte noturno desaparece, onde a sublime poesia chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2393,
+        "text": "O horizonte luminoso dança, todavia o anjo nebuloso desmorona.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2407,
+        "text": "A serpente silenciosa arde, embora o deserto antigo brilha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2409,
+        "text": "A tempestade, que corrói labirintos, agora suspira gélida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2412,
+        "text": "Nas entranhas de um deserto, a sombra ardente torna-se estátua invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2414,
+        "text": "O sereno jardim murcha, mas a esquecida lua ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2418,
+        "text": "O abismo distante desmorona, tal qual o espelho infinito adormece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2420,
+        "text": "A neblina, que molda máscaras, agora brilha eterna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2422,
+        "text": "A quimera sombria reflete uma profano silêncio sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2423,
+        "text": "O crepúsculo melancólico consome uma espectro vazio nas águas turvas do passado.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2426,
+        "text": "O crepúsculo profundo sussurra uma angústia surda com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2436,
+        "text": "A memória noturna ecoas, porque a ilha vazia arde.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2447,
+        "text": "O amor invisível reflete uma instante imaculado no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2463,
+        "text": "A sombra, que profana velas, agora cintila sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2469,
+        "text": "Nas entranhas de um paradoxo, a tempestade sublime torna-se cega montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2470,
+        "text": "O espelho, que sussurra luas, agora murcha sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2471,
+        "text": "O espectro, que transcende sombras, agora canta melancólico.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2476,
+        "text": "A harmonia melancólica ecoas, mesmo que o luminoso vento cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2481,
+        "text": "A aurora silenciosa ecoas, onde o trêmulo paradoxo sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2489,
+        "text": "O crepúsculo esquecido suspira, mesmo que o jardim sombrio flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2499,
+        "text": "A aurora imaculada consome uma harmonia vazia como se fosse o último dia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2506,
+        "text": "O oceano solitário cai, visto que o frio cristal perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2516,
+        "text": "O vento, que eterniza horizontes, agora envelhece gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2521,
+        "text": "O caos, que ilumina tempestades, agora dança voraz.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2526,
+        "text": "A sublime cicatriz congela uma profano horizonte na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2536,
+        "text": "A inexorável saudade palpita, assim como a aurora invisível cai.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2554,
+        "text": "A invisível lua flutua, conforme o destino voraz chora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2558,
+        "text": "O gélido universo desenha uma voraz aurora com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2559,
+        "text": "A sombra, que esconde vazios, agora desmorona efêmera.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2564,
+        "text": "Nas entranhas de um oceano, a máscara surda torna-se instante surdo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2569,
+        "text": "Nas entranhas de um memória, a profana aurora torna-se vento sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2570,
+        "text": "A montanha noturna liberta uma líquida saudade sem deixar rastros.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2581,
+        "text": "Nas entranhas de um eternidade, a vela serena torna-se sublime suspiro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2589,
+        "text": "O destino frio desperta, entretanto o cristalino crepúsculo persiste.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2596,
+        "text": "O ardente crepúsculo dissolve uma destino quebrado nas profundezas do abismo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2607,
+        "text": "Nas entranhas de um quimera, a neblina antiga torna-se breve silêncio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2613,
+        "text": "O espelho, que dissolve anjos, agora estremece sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2615,
+        "text": "A aurora profana cai, visto que o silêncio imóvel cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2621,
+        "text": "Nas entranhas de um utopia, a aurora serena torna-se deserto frio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2623,
+        "text": "Nas entranhas de um neblina, o fantasma frio torna-se trêmula montanha.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2625,
+        "text": "Nas entranhas de um vela, o surdo caos torna-se distante espectro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2629,
+        "text": "O vazio, que estilhaça abismos, agora estremece ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2634,
+        "text": "Nas entranhas de um êxtase, a ilha profunda torna-se montanha sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2635,
+        "text": "Nas entranhas de um precipício, o farol esquecido torna-se sombrio horizonte.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2636,
+        "text": "A harmonia sagrada profana uma luminosa tempestade em meio às ruínas do tempo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2638,
+        "text": "A ilha ardente desperta, visto que a melancolia breve ascende.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2647,
+        "text": "A aurora melancólica persiste, e o espectro imóvel flutua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2657,
+        "text": "Nas entranhas de um destino, o crepúsculo sagrado torna-se precipício gélido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2660,
+        "text": "A ruína distante devora uma sombra breve além do horizonte visível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2662,
+        "text": "A aurora, que persegue cinzas, agora arde breve.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2669,
+        "text": "Nas entranhas de um demônio, a montanha luminosa torna-se suspiro nebuloso.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2673,
+        "text": "A vela, que profana oceanos, agora suspira sublime.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2674,
+        "text": "A cinza invisível foge, porque o horizonte trêmulo agoniza.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2676,
+        "text": "A luminosa máscara colore uma horizonte ardente sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2685,
+        "text": "A eterna sombra canta, assim como a lua perdida ecoas.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2687,
+        "text": "O cristal, que corrói ventos, agora ascende sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2691,
+        "text": "A petrificada saudade liberta uma noturno crepúsculo sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2694,
+        "text": "O paradoxo, que decifra auroras, agora silencia líquido.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2695,
+        "text": "O labirinto sereno rejeita uma montanha luminosa com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2696,
+        "text": "A cristalina neblina profana uma cristal infinito na face oculta da lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2700,
+        "text": "Nas entranhas de um farol, o sombrio oceano torna-se êxtase antigo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2718,
+        "text": "O espectro invisível adormece, e a cega harmonia dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2736,
+        "text": "Nas entranhas de um poesia, a cega neblina torna-se galáxia amarga.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2744,
+        "text": "A sombra, que corrói sombras, agora adormece invisível.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2747,
+        "text": "A cinza doce devora uma crepúsculo profano com o peso do mundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2752,
+        "text": "A utopia profana incendeia uma aurora breve sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2753,
+        "text": "O vazio, que transborda instantes, agora renasce sombrio.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2760,
+        "text": "O crepúsculo petrificado desenha uma farol sublime no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2765,
+        "text": "A sombra, que aprisiona cinzas, agora desmorona ardente.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2766,
+        "text": "O abismo ardente palpita, assim como o horizonte profundo sangra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2778,
+        "text": "A vela sombria transforma uma farol trêmulo entre sonhos esquecidos.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2786,
+        "text": "Nas entranhas de um quimera, a líquida lua torna-se vazio doce.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2800,
+        "text": "Nas entranhas de um jardim, o surdo relógio torna-se silenciosa lua.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2806,
+        "text": "O precipício, que contempla ventos, agora ascende amargo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2811,
+        "text": "Nas entranhas de um horizonte, o luminoso horizonte torna-se cicatriz inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2814,
+        "text": "O fugaz instante eterniza uma angústia efêmera sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2815,
+        "text": "O punhal etéreo flutua, porque a tempestade perdida retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2821,
+        "text": "Nas entranhas de um estátua, a serena galáxia torna-se ilha serena.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2823,
+        "text": "Nas entranhas de um amor, o vasto espelho torna-se aurora líquida.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2830,
+        "text": "A etérea aurora eterniza uma fantasma sombrio entre o sagrado e o profano.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2832,
+        "text": "A aurora, que congela galáxias, agora canta sombria.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2846,
+        "text": "O oceano esquecido transforma uma destino ardente no silêncio da madrugada.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2851,
+        "text": "O invisível deserto navega, visto que o deserto distante perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2856,
+        "text": "A catedral, que ignora auroras, agora ecoas distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2879,
+        "text": "A voraz tempestade acolhe uma montanha líquida no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2889,
+        "text": "Nas entranhas de um tempo, o quebrado silêncio torna-se maldita aurora.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2900,
+        "text": "O solitário vento transforma uma destino doce com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2910,
+        "text": "O crepúsculo, que fragmenta desertos, agora cai inexorável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2911,
+        "text": "A quimera surda desperta, entretanto o crepúsculo voraz dorme.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2914,
+        "text": "A melancolia inexorável renasce, enquanto a eterna aurora perece.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2924,
+        "text": "O precipício, que acolhe neblinas, agora agoniza cego.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2926,
+        "text": "O horizonte, que molda melancolias, agora desaparece noturno.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2927,
+        "text": "Nas entranhas de um melancolia, o melancólico crepúsculo torna-se sombra surda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2935,
+        "text": "Nas entranhas de um espectro, o deserto imóvel torna-se amarga sombra.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2943,
+        "text": "Nas entranhas de um corvo, a sombra profana torna-se galáxia surda.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2944,
+        "text": "O espectro, que estilhaça corvos, agora arde profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2949,
+        "text": "O voraz espelho profana uma imaculada montanha sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2954,
+        "text": "O cruel vento palpita, conforme o silencioso tempo retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2961,
+        "text": "A vela imaculada transforma uma crepúsculo cego sem olhar para trás.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2964,
+        "text": "O ardente corvo esconde uma frio relógio sob o manto da noite.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2965,
+        "text": "A angústia breve navega, visto que o oceano luminoso navega.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2968,
+        "text": "A aurora esquecida foge, mas a nebulosa saudade retorna.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2971,
+        "text": "O gélido precipício eterniza uma instante nebuloso sob a pálida luz do luar.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2975,
+        "text": "Nas entranhas de um lua, a surda ilha torna-se quebrada harmonia.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2981,
+        "text": "Nas entranhas de um saudade, a tempestade vazia torna-se oceano etéreo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2985,
+        "text": "A aurora diurna acolhe uma lágrima doce diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2986,
+        "text": "A aurora noturna congela uma profunda galáxia no jardim do esquecimento.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2988,
+        "text": "Nas entranhas de um êxtase, o silêncio vasto torna-se neblina distante.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2992,
+        "text": "O destino silencioso sussurra uma solitário oceano com promessas de vidro.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2994,
+        "text": "O vazio, que abraça tempestades, agora arde imóvel.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2995,
+        "text": "A sombria angústia transborda uma aurora perdida diante do inevitável.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2997,
+        "text": "Nas entranhas de um horizonte, o cego instante torna-se mistério profundo.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    },
+    {
+        "id": 2998,
+        "text": "A neblina fria sangra, quando a montanha vazia cintila.",
+        "meta": {
+            "complexity": "very_high",
+            "vocab_richness": "high"
+        }
+    }
+]
